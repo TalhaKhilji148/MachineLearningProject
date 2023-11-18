@@ -1,0 +1,89 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Islamabad House Price Prediction Website</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="app.js"></script>
+	<link rel="stylesheet" href="app.css">
+
+</head>
+<body>
+<div class="img"></div>
+ <div class= "upper">
+ <h1 class="title" style="text-align: center;">Welcome To Real Estate Prediction World<br /></h1>
+ 
+</div>
+<h1 id="title" style="text-align: center; color: #4550A5;"> Prediction For Renting A House</h1>
+<form class="form">
+    
+	<h2>Area (Square Feet)</h2>
+    <input class="area"  type="text" id="uiSqft" class="floatLabel" name="Squareft" value="1000">
+	<h2>Number Of Bedrooms</h2>
+	<div class="switch-field">
+		<input type="radio" id="radio-bhk-1" name="uiBHK" value="1"/>
+		<label for="radio-bhk-1">1</label>
+		<input type="radio" id="radio-bhk-2" name="uiBHK" value="2" />
+		<label for="radio-bhk-2">2</label>
+		<input type="radio" id="radio-bhk-3" name="uiBHK" value="3"/>
+		<label for="radio-bhk-3">3</label>
+		<input type="radio" id="radio-bhk-4" name="uiBHK" value="4" checked/>
+		<label for="radio-bhk-4">4</label>
+		<input type="radio" id="radio-bhk-5" name="uiBHK" value="5"/>
+		<label for="radio-bhk-5">5</label>
+       
+	</div>
+	</form>
+<form class="form">
+	<h2>Number Of Baths</h2>
+	<div class="switch-field">
+		<input type="radio" id="radio-bath-1" name="uiBathrooms" value="1"/>
+		<label for="radio-bath-1">1</label>
+		<input type="radio" id="radio-bath-2" name="uiBathrooms" value="2"/>
+		<label for="radio-bath-2">2</label>
+		<input type="radio" id="radio-bath-3" name="uiBathrooms" value="3" checked/>
+		<label for="radio-bath-3">3</label>
+		<input type="radio" id="radio-bath-4" name="uiBathrooms" value="4"/>
+		<label for="radio-bath-4">4</label>
+		<input type="radio" id="radio-bath-5" name="uiBathrooms" value="5"/>
+		<label for="radio-bath-5">5</label>
+        
+	</div>
+		<h2 >House Location For Rent</h2>
+	<div>
+  <select class="location" name="" id="uiLocations">
+    <option value="" disabled="disabled" selected="selected">Choose a Location</option>
+		<option>ghauri town</option>
+        <option>i-8 </option>
+  </select>
+</div>
+
+ <div class="ktn__div" >
+
+  <h2>Choose The Portion of House</h2>
+	<div>
+  <select class="kitchen" name="" id="uiPortion">
+		<option checked value="0">Lower Portion</option>
+    <option value="1">Upper Portion</option>
+  </select>
+</div>
+	<form class="form">
+  <h2>Do you want to include Garage?</h2>
+  <div class="switch-field">
+  <input type="radio" id="radio-garage-1" name="uiGarage" value="1" checked />
+		<label for="radio-garage-1" class="rd__btn">No</label>
+		<input type="radio" id="radio-garage-2" name="uiGarage" value="0"/>
+		<label for="radio-garage-2" class="rd__btn">Yes</label>
+		</div>
+	</form>
+</div>
+
+	<div class="btm__div">
+	 <button class="submit" onclick="onClickedEstimatePrice()" type="button">Estimate The Price</button>
+	 <!-- <div class="btm_text"> -->
+	 	<h2 id="uiEstimatedPrice" class="result" style="margin-bottom: 100px;"></h2>
+	 <!-- </div> -->
+			
+	</div>
+</body>
+</html>

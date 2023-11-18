@@ -1,0 +1,3281 @@
+,Price,House_location,baths,beds,area
+0,16000000,other,4,4,2722
+1,3800000,other,1,1,598
+2,13000000,other,3,3,2913
+3,12800000,Askari 14,4,3,2722
+4,11500000,Askari 14,4,3,2722
+5,14500000,Askari 14,4,3,2722
+6,12800000,Askari 14,3,3,2967
+7,11700000,Askari 14,3,3,2722
+8,12200000,Askari 14,3,3,2722
+9,13000000,Askari 14,4,3,2722
+10,11500000,Askari 14,3,3,2722
+11,13000000,Askari 14,4,3,2967
+12,15000000,Askari 14,3,3,2722
+13,14800000,Askari 14,3,3,2722
+14,14500000,Askari 14,3,3,2722
+15,13500000,Askari 14,3,3,2722
+16,12500000,Askari 14,3,3,2722
+17,11500000,Askari 14,3,3,2722
+18,14500000,Askari 14,3,3,2722
+19,13500000,Askari 14,3,3,2722
+20,11500000,Askari 14,3,3,2722
+21,12500000,Askari 14,3,3,2722
+22,11700000,Askari 14,3,3,2722
+23,14000000,Askari 14,3,3,2722
+24,13000000,Askari 14,3,3,2722
+25,13500000,Askari 14,3,3,2722
+26,12000000,Askari 14,4,3,2722
+27,11500000,Askari 14,4,3,2722
+28,13700000,Askari 14,4,3,2722
+29,15000000,Askari 14,4,3,2722
+30,14000000,Askari 14,3,3,3021
+31,13500000,Askari 14,4,3,2831
+32,13300000,Askari 14,4,3,2831
+33,12000000,Askari 14,4,3,2722
+34,14500000,Askari 14,3,3,2722
+35,13500000,Askari 14,3,3,2722
+36,14000000,Askari 14,3,3,3130
+37,14000000,Askari 14,3,3,2722
+38,12000000,Askari 14,4,3,2722
+39,13500000,Askari 14,4,3,2722
+40,14500000,Askari 14,3,3,2831
+41,13000000,Askari 14,3,3,2722
+42,12500000,Askari 14,4,3,2722
+43,13500000,Askari 14,4,3,2722
+44,14500000,Askari 14,3,3,3212
+45,12500000,Askari 14,3,3,2722
+46,11700000,Askari 14,3,3,2722
+47,14500000,Askari 14,3,3,2722
+48,12500000,Askari 14,3,3,2722
+49,15000000,Askari 14,3,3,2722
+50,11500000,Askari 14,3,3,2722
+51,12800000,Askari 14,3,3,2722
+52,11600000,Askari 14,3,3,2722
+53,15000000,Askari 14,4,3,2722
+54,11800000,Askari 14,3,3,2722
+55,15000000,Askari 14,3,3,2722
+56,11800000,Askari 14,3,3,2722
+57,15000000,Askari 14,3,3,2722
+58,13500000,Askari 14,3,3,2722
+59,14500000,Askari 14,3,3,2722
+60,11300000,Askari 14,3,3,2722
+61,13500000,Askari 14,3,3,2722
+62,11300000,Askari 14,4,3,2722
+63,13500000,Askari 14,3,3,3158
+64,9800000,other,4,3,2722
+65,11000000,other,3,3,2913
+66,12000000,other,3,3,2994
+67,10500000,other,3,3,2913
+68,14000000,other,3,3,3267
+69,15500000,other,3,3,3158
+70,13000000,other,3,3,2722
+71,14500000,other,3,3,2722
+72,15000000,other,3,3,2913
+73,11500000,other,4,3,2722
+74,11000000,other,4,3,2722
+75,13000000,other,3,3,2722
+76,12500000,other,3,3,2722
+77,12000000,other,3,3,2913
+78,12000000,other,4,3,3130
+79,16000000,Askari 7,3,3,2722
+80,14000000,Askari 7,4,3,2722
+81,14000000,Askari 7,3,3,2722
+82,14000000,Askari 7,3,3,2722
+83,12000000,Askari 7,3,3,2722
+84,11500000,Askari 7,2,2,2722
+85,12500000,Askari 7,3,3,2722
+86,11500000,Askari 7,3,3,2722
+87,11500000,Askari 7,3,3,2722
+88,2997000,B-17,2,2,816
+89,2975000,B-17,2,2,816
+90,4400000,B-17,2,2,1279
+91,3700000,B-17,2,2,1007
+92,3750000,B-17,2,2,1034
+93,3700000,B-17,2,2,1034
+94,5000000,B-17,2,2,1334
+95,3300000,B-17,1,1,735
+96,7500000,B-17,3,3,1524
+97,5200000,B-17,3,2,1143
+98,3800000,B-17,2,2,980
+99,1900000,B-17,2,2,680
+100,3200000,B-17,2,2,789
+101,3500000,B-17,2,2,816
+102,3500000,B-17,2,2,843
+103,5500000,B-17,2,2,1089
+104,2500000,B-17,1,1,490
+105,4231000,B-17,1,1,789
+106,4255000,B-17,2,2,1007
+107,5070000,B-17,2,2,1143
+108,2640000,B-17,1,1,544
+109,4770000,B-17,2,2,1143
+110,3890000,B-17,2,2,707
+111,4500000,B-17,2,2,1279
+112,1900000,B-17,1,1,462
+113,2820000,B-17,1,1,843
+114,4750000,B-17,2,2,1089
+115,5250000,B-17,2,2,1089
+116,2640000,B-17,1,1,544
+117,2600000,B-17,1,1,490
+118,5724000,B-17,2,2,1143
+119,2640000,B-17,1,1,544
+120,2100000,B-17,1,1,490
+121,3250000,B-17,2,2,898
+122,1850000,B-17,2,1,490
+123,5724000,B-17,3,2,1143
+124,4200000,B-17,2,2,1034
+125,5724000,B-17,2,2,1143
+126,4500000,B-17,2,2,1034
+127,3850000,B-17,2,2,1089
+128,2640000,B-17,1,1,544
+129,2660000,B-17,1,1,544
+130,2500000,B-17,2,2,735
+131,4446000,B-17,2,2,898
+132,3890000,B-17,2,2,789
+133,5500000,B-17,2,2,1116
+134,3500000,B-17,1,1,653
+135,1850000,B-17,1,1,381
+136,2600000,B-17,2,2,898
+137,1800000,B-17,1,1,435
+138,4140000,B-17,1,1,843
+139,7000000,B-17,3,2,1361
+140,7000000,B-17,3,3,1687
+141,1982000,B-17,1,1,381
+142,7500000,B-17,2,2,1361
+143,2500000,B-17,2,2,843
+144,2600000,B-17,2,2,816
+145,2640000,B-17,1,1,544
+146,3800000,B-17,2,2,1089
+147,3767000,B-17,2,2,789
+148,1784000,B-17,1,1,381
+149,3791000,B-17,2,2,789
+150,1808000,B-17,1,1,381
+151,4234000,B-17,2,2,789
+152,1802000,B-17,1,1,381
+153,6600000,B-17,3,4,2069
+154,6780000,B-17,3,3,1361
+155,4446000,B-17,2,2,898
+156,3516000,B-17,2,2,1061
+157,3890000,B-17,2,2,789
+158,4000000,B-17,2,2,1089
+159,5675000,B-17,2,2,1143
+160,1850000,B-17,1,1,435
+161,5724000,B-17,2,2,1143
+162,3600000,B-17,2,2,816
+163,4140000,B-17,1,1,843
+164,2820000,B-17,1,1,571
+165,2640000,B-17,1,1,544
+166,6030000,B-17,2,2,1225
+167,5820000,B-17,2,2,1170
+168,5550000,B-17,2,2,1116
+169,5250000,B-17,2,2,1061
+170,9360000,B-17,3,3,1878
+171,8220000,B-17,3,3,1660
+172,6780000,B-17,3,3,1361
+173,10300000,B-17,4,4,2069
+174,3800000,B-17,1,2,762
+175,2400000,B-17,1,1,435
+176,2400000,B-17,1,1,435
+177,3102000,B-17,1,1,680
+178,6000000,B-17,2,4,1252
+179,6000000,B-17,2,4,1252
+180,5950000,B-17,2,2,1579
+181,3100000,B-17,1,1,762
+182,1925000,B-17,1,1,653
+183,5550000,B-17,2,2,1116
+184,2400000,B-17,1,1,490
+185,5700000,B-17,3,2,1143
+186,5950000,B-17,2,2,1579
+187,2600000,B-17,2,2,843
+188,2400000,B-17,1,1,435
+189,3890000,B-17,2,2,789
+190,1500000,B-17,1,1,462
+191,4100000,B-17,1,1,843
+192,3372000,B-17,1,1,680
+193,5250000,B-17,2,2,1061
+194,2820000,B-17,1,1,571
+195,3300000,B-17,1,1,762
+196,5200000,B-17,2,2,1061
+197,3200000,B-17,1,1,762
+198,5000000,B-17,2,2,1061
+199,8000000,Bahria Town,2,2,1660
+200,4800000,Bahria Town,1,1,789
+201,5656000,Bahria Town,2,2,980
+202,8800000,Bahria Town,2,2,1660
+203,6365000,Bahria Town,1,1,1143
+204,6000000,Bahria Town,1,1,1170
+205,7000000,Bahria Town,2,2,1579
+206,14700000,Bahria Town,4,3,2967
+207,14700000,Bahria Town,3,3,2967
+208,11600000,Bahria Town,3,3,2341
+209,11600000,Bahria Town,3,3,2341
+210,11000000,Bahria Town,3,3,2232
+211,11000000,Bahria Town,3,3,2232
+212,10500000,Bahria Town,2,2,2014
+213,10500000,Bahria Town,2,2,2014
+214,9200000,Bahria Town,2,2,1851
+215,9200000,Bahria Town,2,2,1851
+216,8400000,Bahria Town,2,2,1851
+217,8400000,Bahria Town,2,2,1851
+218,7400000,Bahria Town,2,2,1633
+219,7400000,Bahria Town,2,2,1633
+220,7300000,Bahria Town,1,1,1606
+221,6225000,Bahria Town,1,1,1633
+222,6850000,Bahria Town,2,2,1497
+223,6850000,Bahria Town,2,2,1497
+224,6800000,Bahria Town,2,2,1497
+225,6800000,Bahria Town,2,2,1497
+226,6100000,Bahria Town,1,1,1334
+227,6100000,Bahria Town,1,1,1334
+228,6000000,Bahria Town,2,2,1334
+229,6000000,Bahria Town,2,2,1334
+230,5500000,Bahria Town,1,1,1197
+231,4650000,Bahria Town,1,1,1034
+232,4650000,Bahria Town,1,1,1034
+233,5500000,Bahria Town,1,1,1197
+234,2000000,Bahria Town,2,2,980
+235,8500000,Bahria Town,2,1,1034
+236,4900000,Bahria Town,1,1,1197
+237,8400000,Bahria Town,2,2,1851
+238,12700000,Bahria Town,3,3,2967
+239,3400000,Bahria Town,1,1,871
+240,2600000,Bahria Town,1,1,653
+241,8000000,Bahria Town,2,2,1143
+242,3700000,Bahria Town,2,1,1007
+243,3570000,Bahria Town,1,1,517
+244,4850000,Bahria Town,2,2,1143
+245,3200000,Bahria Town,1,1,598
+246,5650000,Bahria Town,2,1,1007
+247,7800000,Bahria Town,3,2,1415
+248,3600000,Bahria Town,1,1,598
+249,10000000,Bahria Town,3,2,1524
+250,4583000,Bahria Town,1,1,735
+251,3650000,Bahria Town,1,1,653
+252,4500000,Bahria Town,1,1,762
+253,5500000,Bahria Town,3,3,1116
+254,3000000,Bahria Town,2,1,1034
+255,6500000,Bahria Town,2,2,980
+256,5200000,Bahria Town,2,2,925
+257,4583000,Bahria Town,2,1,735
+258,5700000,Bahria Town,2,1,1034
+259,2600000,Bahria Town,1,1,435
+260,8700000,Bahria Town,3,2,1742
+261,6800000,Bahria Town,2,2,1497
+262,3550000,Bahria Town,1,1,653
+263,3990000,Bahria Town,1,1,680
+264,7700000,Bahria Town,2,2,1551
+265,8700000,Bahria Town,2,2,1742
+266,7700000,Bahria Town,2,2,1551
+267,6000000,Bahria Town,1,1,1225
+268,1293000,Bahria Town,2,2,1742
+269,3700000,Bahria Town,1,1,680
+270,7700000,Bahria Town,2,2,1551
+271,7080000,Bahria Town,2,2,1143
+272,13500000,Bahria Town,2,2,2178
+273,5000000,Bahria Town,1,1,435
+274,7000000,Bahria Town,2,2,1143
+275,6500000,Bahria Town,1,1,1143
+276,4800000,Bahria Town,1,1,871
+277,3500000,Bahria Town,1,1,544
+278,7600000,Bahria Town,2,2,1415
+279,4080000,Bahria Town,2,1,735
+280,4000000,Bahria Town,2,1,816
+281,5300000,Bahria Town,1,1,1007
+282,8000000,Bahria Town,2,2,1524
+283,3000000,Bahria Town,1,1,571
+284,10200000,Bahria Town,2,2,1660
+285,1200000,Bahria Town,1,1,1170
+286,2000000,Bahria Town,2,2,1742
+287,2500000,Bahria Town,3,3,2368
+288,4000000,Bahria Town,2,1,571
+289,4000000,Bahria Town,2,1,571
+290,4000000,Bahria Town,2,1,571
+291,4000000,Bahria Town,2,1,571
+292,4000000,Bahria Town,2,1,571
+293,4000000,Bahria Town,2,1,571
+294,4000000,Bahria Town,2,1,571
+295,4000000,Bahria Town,2,1,571
+296,4000000,Bahria Town,2,1,571
+297,4000000,Bahria Town,2,1,571
+298,3497000,Bahria Town,1,1,653
+299,4000000,Bahria Town,1,1,571
+300,4000000,Bahria Town,1,1,571
+301,4000000,Bahria Town,1,1,571
+302,4000000,Bahria Town,1,1,571
+303,4000000,Bahria Town,1,1,571
+304,4000000,Bahria Town,1,1,571
+305,7700000,Bahria Town,2,2,1551
+306,2825000,Bahria Town,1,1,517
+307,2800000,Bahria Town,1,1,490
+308,2900000,Bahria Town,1,1,626
+309,5500000,Bahria Town,1,1,925
+310,8000000,Bahria Town,2,2,1606
+311,5813000,Bahria Town,2,1,925
+312,5500000,Bahria Town,2,2,1334
+313,7700000,Bahria Town,2,2,1551
+314,5600000,Bahria Town,1,1,1197
+315,4500000,Bahria Town,1,1,735
+316,6000000,Bahria Town,2,2,843
+317,8500000,Bahria Town,2,2,1361
+318,4500000,Bahria Town,1,1,653
+319,6000000,Bahria Town,2,2,980
+320,5600000,Bahria Town,2,1,1197
+321,7700000,Bahria Town,3,2,1551
+322,8700000,Bahria Town,3,2,1742
+323,13500000,Bahria Town,4,3,2776
+324,3900000,Bahria Town,1,1,653
+325,10200000,Bahria Town,2,2,1660
+326,4000000,Bahria Town,2,1,571
+327,4000000,Bahria Town,2,1,571
+328,4000000,Bahria Town,2,1,571
+329,4000000,Bahria Town,2,1,571
+330,4000000,Bahria Town,2,1,571
+331,4000000,Bahria Town,2,1,571
+332,4000000,Bahria Town,2,1,571
+333,4000000,Bahria Town,2,1,571
+334,4000000,Bahria Town,2,1,571
+335,4000000,Bahria Town,2,1,571
+336,4000000,Bahria Town,2,1,571
+337,3900000,Bahria Town,1,1,653
+338,3900000,Bahria Town,1,1,653
+339,6000000,Bahria Town,1,1,1197
+340,6500000,Bahria Town,2,2,1197
+341,3900000,Bahria Town,1,1,653
+342,16000000,Bahria Town,3,3,3620
+343,8000000,Bahria Town,3,2,1197
+344,3900000,Bahria Town,1,1,653
+345,4123000,Bahria Town,1,1,598
+346,5800000,Bahria Town,1,1,1007
+347,3600000,Bahria Town,1,1,490
+348,4650000,Bahria Town,1,1,1034
+349,3201000,Bahria Town,2,2,1306
+350,3800000,Bahria Town,1,1,653
+351,8500000,Bahria Town,2,2,1089
+352,4800000,Bahria Town Rawalpindi,1,1,1034
+353,8500000,Bahria Town Rawalpindi,1,1,980
+354,7500000,Bahria Town Rawalpindi,2,2,1497
+355,3000000,Bahria Town Rawalpindi,1,1,408
+356,1500000,Bahria Town Rawalpindi,1,1,353
+357,4000000,Bahria Town Rawalpindi,1,1,544
+358,5500000,Bahria Town Rawalpindi,2,2,1089
+359,3500000,Bahria Town Rawalpindi,1,1,871
+360,7500000,Bahria Town Rawalpindi,3,3,1279
+361,6000000,Bahria Town Rawalpindi,2,2,1089
+362,3800000,Bahria Town Rawalpindi,1,1,789
+363,2700000,Bahria Town Rawalpindi,1,1,490
+364,2600000,Bahria Town Rawalpindi,2,2,816
+365,2000000,Bahria Town Rawalpindi,1,1,544
+366,3300000,Bahria Town Rawalpindi,1,2,952
+367,5200000,Bahria Town Rawalpindi,2,2,1197
+368,4200000,Bahria Town Rawalpindi,2,2,952
+369,5000000,Bahria Town Rawalpindi,2,2,1197
+370,3600000,Bahria Town Rawalpindi,2,2,843
+371,3550000,Bahria Town Rawalpindi,2,2,735
+372,5100000,Bahria Town Rawalpindi,2,2,1334
+373,6000000,Bahria Town Rawalpindi,2,2,1279
+374,3500000,Bahria Town Rawalpindi,1,1,816
+375,3500000,Bahria Town Rawalpindi,1,1,680
+376,2500000,Bahria Town Rawalpindi,1,1,408
+377,12000000,Bahria Town Rawalpindi,3,3,2178
+378,3800000,Bahria Town Rawalpindi,1,1,598
+379,5000000,Bahria Town Rawalpindi,2,2,1197
+380,4200000,Bahria Town Rawalpindi,1,1,816
+381,2600000,Bahria Town Rawalpindi,1,1,326
+382,4000000,Bahria Town Rawalpindi,1,1,925
+383,15500000,Bahria Town Rawalpindi,3,3,2994
+384,3800000,Bahria Town Rawalpindi,1,1,762
+385,6700000,Bahria Town Rawalpindi,2,1,925
+386,8000000,Bahria Town Rawalpindi,2,2,1687
+387,6800000,Bahria Town Rawalpindi,2,1,925
+388,3300000,Bahria Town Rawalpindi,1,2,952
+389,9500000,Bahria Town Rawalpindi,3,3,1932
+390,2000000,Bahria Town Rawalpindi,1,1,435
+391,3800000,Bahria Town Rawalpindi,1,1,653
+392,3200000,Bahria Town Rawalpindi,1,2,952
+393,2500000,Bahria Town Rawalpindi,1,1,490
+394,8500000,Bahria Town Rawalpindi,2,2,1361
+395,2600000,Bahria Town Rawalpindi,2,2,789
+396,3400000,Bahria Town Rawalpindi,2,2,871
+397,4700000,Bahria Town Rawalpindi,1,1,843
+398,5500000,Bahria Town Rawalpindi,2,2,1143
+399,3150000,Bahria Town Rawalpindi,1,1,735
+400,4500000,Bahria Town Rawalpindi,1,1,816
+401,10500000,Bahria Town Rawalpindi,3,2,1579
+402,7800000,Bahria Town Rawalpindi,2,1,980
+403,9000000,Bahria Town Rawalpindi,2,1,1061
+404,2500000,Bahria Town Rawalpindi,2,2,816
+405,3700000,Bahria Town Rawalpindi,1,2,952
+406,3500000,Bahria Town Rawalpindi,1,1,789
+407,8500000,Bahria Town Rawalpindi,1,1,952
+408,3255000,Bahria Town Rawalpindi,1,1,571
+409,3500000,Bahria Town Rawalpindi,1,1,789
+410,16900000,Bahria Town Rawalpindi,3,3,2559
+411,18900000,Bahria Town Rawalpindi,3,3,2858
+412,10600000,Bahria Town Rawalpindi,2,2,1497
+413,13000000,Bahria Town Rawalpindi,3,3,2286
+414,6400000,Bahria Town Rawalpindi,2,1,1007
+415,3700000,Bahria Town Rawalpindi,1,2,1361
+416,5000000,Bahria Town Rawalpindi,2,2,952
+417,2860000,Bahria Town Rawalpindi,1,1,353
+418,8400000,Bahria Town Rawalpindi,2,1,1007
+419,3700000,Bahria Town Rawalpindi,2,2,843
+420,19000000,Bahria Town Rawalpindi,2,2,2178
+421,2500000,Bahria Town Rawalpindi,1,2,1361
+422,15000000,Bahria Town Rawalpindi,2,2,1987
+423,8000000,Bahria Town Rawalpindi,2,2,1579
+424,2800000,Bahria Town Rawalpindi,1,2,952
+425,10000000,Bahria Town Rawalpindi,3,3,1932
+426,2200000,Bahria Town Rawalpindi,1,1,735
+427,2200000,Bahria Town Rawalpindi,1,2,952
+428,4500000,Bahria Town Rawalpindi,2,2,1143
+429,2200000,Bahria Town Rawalpindi,1,1,326
+430,3150000,Bahria Town Rawalpindi,1,1,816
+431,4500000,Bahria Town Rawalpindi,1,1,952
+432,3200000,Bahria Town Rawalpindi,2,2,762
+433,3800000,Bahria Town Rawalpindi,2,2,735
+434,4000000,Bahria Town Rawalpindi,1,1,925
+435,5900000,Bahria Town Rawalpindi,2,2,1279
+436,5500000,Bahria Town Rawalpindi,2,2,1334
+437,6300000,Bahria Town Rawalpindi,2,2,1143
+438,2500000,Bahria Town Rawalpindi,1,2,1361
+439,7500000,Bahria Town Rawalpindi,2,1,980
+440,1900000,Bahria Town Rawalpindi,1,2,816
+441,4200000,Bahria Town Rawalpindi,1,1,1442
+442,5000000,Bahria Town Rawalpindi,2,2,898
+443,6500000,Bahria Town Rawalpindi,2,2,1143
+444,5000000,Bahria Town Rawalpindi,2,2,1034
+445,3700000,Bahria Town Rawalpindi,1,1,598
+446,7200000,Bahria Town Rawalpindi,2,2,1579
+447,3300000,Bahria Town Rawalpindi,2,2,762
+448,2800000,Bahria Town Rawalpindi,2,2,735
+449,3500000,Bahria Town Rawalpindi,1,1,925
+450,3300000,Bahria Town Rawalpindi,1,1,653
+451,5500000,Bahria Town Rawalpindi,3,3,1334
+452,8000000,Bahria Town Rawalpindi,2,2,1143
+453,3400000,Bahria Town Rawalpindi,1,1,435
+454,3500000,Bahria Town Rawalpindi,1,1,1089
+455,3000000,Bahria Town Rawalpindi,2,2,1361
+456,6500000,Bahria Town Rawalpindi,2,2,1197
+457,12500000,Bahria Town Rawalpindi,2,2,1279
+458,4400000,Bahria Town Rawalpindi,1,1,871
+459,12500000,Bahria Town Rawalpindi,2,2,1579
+460,7000000,Bahria Town Rawalpindi,2,2,1334
+461,6900000,Bahria Town Rawalpindi,2,2,1334
+462,2200000,Bahria Town Rawalpindi,1,2,871
+463,6500000,Bahria Town Rawalpindi,2,1,980
+464,3500000,Bahria Town Rawalpindi,2,2,952
+465,6620000,Bahria Town Rawalpindi,1,1,1034
+466,5500000,Bahria Town Rawalpindi,2,2,1034
+467,7400000,Bahria Town Rawalpindi,2,1,1007
+468,7000000,Bahria Town Rawalpindi,2,1,980
+469,3500000,Bahria Town Rawalpindi,1,1,598
+470,3200000,Bahria Town Rawalpindi,2,2,1197
+471,15900000,Bahria Town Rawalpindi,2,2,1687
+472,15000000,Bahria Town Rawalpindi,2,2,2069
+473,15000000,Bahria Town Rawalpindi,2,2,2069
+474,6500000,Bahria Town Rawalpindi,2,2,1197
+475,2600000,Bahria Town Rawalpindi,1,1,544
+476,3400000,Bahria Town Rawalpindi,1,2,952
+477,5200000,Bahria Town Rawalpindi,2,2,898
+478,2100000,Bahria Town Rawalpindi,1,2,1361
+479,2300000,Bahria Town Rawalpindi,1,2,1361
+480,3500000,Bahria Town Rawalpindi,1,2,1361
+481,9000000,Bahria Town Rawalpindi,2,1,1116
+482,9000000,Bahria Town Rawalpindi,2,2,1932
+483,18000000,Bahria Town Rawalpindi,2,2,2668
+484,2300000,Bahria Town Rawalpindi,1,2,1361
+485,3000000,Bahria Town Rawalpindi,1,2,952
+486,3700000,Bahria Town Rawalpindi,1,1,598
+487,2550000,Bahria Town Rawalpindi,1,1,462
+488,1700000,Bahria Town Rawalpindi,1,1,353
+489,3500000,Bahria Town Rawalpindi,1,2,952
+490,5500000,Bahria Town Rawalpindi,2,2,925
+491,7500000,Bahria Town Rawalpindi,3,2,1225
+492,2700000,Bahria Town Rawalpindi,1,1,653
+493,6422000,Bahria Town Rawalpindi,2,2,1197
+494,3500000,Bahria Town Rawalpindi,1,2,1361
+495,2000000,Bahria Town Rawalpindi,1,2,952
+496,5000000,Bahria Town Rawalpindi,2,2,1334
+497,7500000,Bahria Town Rawalpindi,2,1,980
+498,6200000,Bahria Town Rawalpindi,2,2,1143
+499,6200000,Bahria Town Rawalpindi,2,2,1143
+500,2700000,Bahria Town Rawalpindi,1,1,707
+501,2200000,Bahria Town Rawalpindi,1,1,435
+502,8000000,Bahria Town Rawalpindi,2,2,735
+503,12500000,Bahria Town Rawalpindi,2,2,1089
+504,2600000,Bahria Town Rawalpindi,2,2,735
+505,2600000,Bahria Town Rawalpindi,1,2,952
+506,3200000,Bahria Town Rawalpindi,1,1,762
+507,12000000,Bahria Town Rawalpindi,1,1,898
+508,12000000,Bahria Town Rawalpindi,1,1,898
+509,2400000,Bahria Town Rawalpindi,1,2,1361
+510,3400000,Bahria Town Rawalpindi,2,2,735
+511,5000000,Bahria Town Rawalpindi,2,2,1197
+512,5000000,Bahria Town Rawalpindi,2,2,898
+513,16000000,Bahria Town Rawalpindi,4,3,3539
+514,2700000,Bahria Town Rawalpindi,1,2,1361
+515,2700000,Bahria Town Rawalpindi,1,2,816
+516,14000000,Bahria Town Rawalpindi,3,2,1932
+517,3000000,Bahria Town Rawalpindi,1,2,980
+518,2150000,Bahria Town Rawalpindi,2,2,952
+519,1900000,Bahria Town Rawalpindi,1,1,490
+520,4500000,Bahria Town Rawalpindi,2,2,843
+521,3450000,Bahria Town Rawalpindi,1,1,735
+522,2350000,Bahria Town Rawalpindi,1,2,952
+523,7500000,Bahria Town Rawalpindi,2,1,980
+524,2950000,Bahria Town Rawalpindi,1,1,952
+525,6700000,Bahria Town Rawalpindi,2,1,898
+526,1300000,Bahria Town Rawalpindi,1,1,272
+527,5700000,Bahria Town Rawalpindi,2,2,1334
+528,4583000,Bahria Town Rawalpindi,1,1,735
+529,4000000,Bahria Town Rawalpindi,1,1,789
+530,1801000,Bahria Town Rawalpindi,1,1,381
+531,1950000,Bahria Town Rawalpindi,1,2,952
+532,2800000,Bahria Town Rawalpindi,1,2,952
+533,2600000,Bahria Town Rawalpindi,1,2,952
+534,4000000,Bahria Town Rawalpindi,1,1,598
+535,2800000,Bahria Town Rawalpindi,2,2,735
+536,2800000,Bahria Town Rawalpindi,2,2,843
+537,10500000,Bahria Town Rawalpindi,2,2,1579
+538,10000000,Bahria Town Rawalpindi,1,1,1334
+539,3800000,Bahria Town Rawalpindi,2,2,816
+540,4950000,Bahria Town Rawalpindi,2,2,1143
+541,2600000,Bahria Town Rawalpindi,1,2,952
+542,3900000,Bahria Town Rawalpindi,1,1,735
+543,3500000,Bahria Town Rawalpindi,1,2,1361
+544,7000000,Bahria Town Rawalpindi,1,1,843
+545,6500000,Bahria Town Rawalpindi,2,2,980
+546,2800000,Bahria Town Rawalpindi,1,2,952
+547,5000000,Bahria Town Rawalpindi,2,2,843
+548,6500000,Bahria Town Rawalpindi,2,1,898
+549,4000000,Bahria Town Rawalpindi,1,2,789
+550,3200000,Bahria Town Rawalpindi,1,1,707
+551,18000000,Bahria Town Rawalpindi,2,2,1960
+552,5000000,Bahria Town Rawalpindi,2,2,1089
+553,1700000,Bahria Town Rawalpindi,1,1,353
+554,6200000,Bahria Town Rawalpindi,2,2,1197
+555,6400000,Bahria Town Rawalpindi,2,2,1034
+556,3800000,Bahria Town Rawalpindi,2,2,1089
+557,4583000,Bahria Town Rawalpindi,1,1,735
+558,2300000,Bahria Town Rawalpindi,1,1,408
+559,2900000,Bahria Town Rawalpindi,1,2,952
+560,6000000,Bahria Town Rawalpindi,2,2,1197
+561,7500000,Bahria Town Rawalpindi,3,3,2123
+562,7500000,Bahria Town Rawalpindi,3,3,2123
+563,7500000,Bahria Town Rawalpindi,3,3,2123
+564,7500000,Bahria Town Rawalpindi,3,3,2123
+565,3600000,Bahria Town Rawalpindi,1,2,1361
+566,4583000,Bahria Town Rawalpindi,1,1,735
+567,2500000,Bahria Town Rawalpindi,1,1,462
+568,7300000,Bahria Town Rawalpindi,2,1,980
+569,4583000,Bahria Town Rawalpindi,1,1,735
+570,7080000,Bahria Town Rawalpindi,2,2,1143
+571,18500000,Bahria Town Rawalpindi,2,2,1687
+572,3500000,Bahria Town Rawalpindi,2,2,735
+573,3300000,Bahria Town Rawalpindi,1,2,952
+574,8400000,Bahria Town Rawalpindi,2,1,980
+575,4500000,Bahria Town Rawalpindi,2,2,980
+576,3200000,Bahria Town Rawalpindi,2,2,1361
+577,3600000,Bahria Town Rawalpindi,1,1,707
+578,2970000,Bahria Town Rawalpindi,1,1,626
+579,11700000,Bahria Town Rawalpindi,3,3,1878
+580,4000000,Bahria Town Rawalpindi,2,2,980
+581,4000000,Bahria Town Rawalpindi,1,2,1361
+582,3800000,Bahria Town Rawalpindi,2,2,1034
+583,11500000,Bahria Town Rawalpindi,2,2,1687
+584,2400000,Bahria Town Rawalpindi,1,2,762
+585,5000000,Bahria Town Rawalpindi,2,2,1170
+586,5500000,Bahria Town Rawalpindi,2,2,925
+587,3500000,Bahria Town Rawalpindi,2,2,789
+588,3000000,Bahria Town Rawalpindi,1,2,952
+589,3500000,Bahria Town Rawalpindi,2,2,789
+590,12500000,Bahria Town Rawalpindi,2,2,1442
+591,3400000,Bahria Town Rawalpindi,2,2,898
+592,12000000,Bahria Town Rawalpindi,2,2,1415
+593,5500000,Bahria Town Rawalpindi,2,2,1170
+594,4000000,Bahria Town Rawalpindi,1,1,843
+595,2350000,Bahria Town Rawalpindi,2,2,898
+596,3200000,Bahria Town Rawalpindi,1,1,435
+597,6200000,Bahria Town Rawalpindi,2,2,1143
+598,2450000,Bahria Town Rawalpindi,1,2,816
+599,7500000,Bahria Town Rawalpindi,2,2,1442
+600,5000000,Bahria Town Rawalpindi,2,2,1089
+601,5000000,Bahria Town Rawalpindi,2,2,1442
+602,3400000,Bahria Town Rawalpindi,2,2,735
+603,3500000,Bahria Town Rawalpindi,1,2,735
+604,7000000,Bahria Town Rawalpindi,2,1,1089
+605,6500000,Bahria Town Rawalpindi,2,1,1361
+606,2500000,Bahria Town Rawalpindi,1,2,1361
+607,17500000,Bahria Town Rawalpindi,4,4,3539
+608,13200000,Bahria Town Rawalpindi,3,3,2286
+609,4800000,Bahria Town Rawalpindi,1,1,735
+610,3100000,Bahria Town Rawalpindi,1,2,1361
+611,2800000,Bahria Town Rawalpindi,1,2,1361
+612,2600000,Bahria Town Rawalpindi,1,2,1361
+613,2350000,Bahria Town Rawalpindi,1,2,1361
+614,3400000,Bahria Town Rawalpindi,1,1,680
+615,5000000,Bahria Town Rawalpindi,2,2,980
+616,2000000,Bahria Town Rawalpindi,1,1,490
+617,4320000,Bahria Town Rawalpindi,1,1,871
+618,5500000,Bahria Town Rawalpindi,1,1,816
+619,3800000,Bahria Town Rawalpindi,1,1,680
+620,2800000,Bahria Town Rawalpindi,1,1,735
+621,11000000,Bahria Town Rawalpindi,2,2,1551
+622,7200000,Bahria Town Rawalpindi,2,1,980
+623,9000000,Bahria Town Rawalpindi,1,1,1089
+624,3300000,Bahria Town Rawalpindi,2,2,843
+625,4300000,Bahria Town Rawalpindi,1,2,952
+626,13500000,Bahria Town Rawalpindi,2,2,2069
+627,13500000,Bahria Town Rawalpindi,2,2,2069
+628,2500000,Bahria Town Rawalpindi,2,2,735
+629,7080000,Bahria Town Rawalpindi,2,2,1143
+630,6500000,Bahria Town Rawalpindi,1,1,980
+631,7080000,Bahria Town Rawalpindi,2,2,1606
+632,7080000,Bahria Town Rawalpindi,2,2,1143
+633,2400000,Bahria Town Rawalpindi,2,2,653
+634,3800000,Bahria Town Rawalpindi,2,2,735
+635,4000000,Bahria Town Rawalpindi,1,2,1361
+636,15000000,Bahria Town Rawalpindi,2,2,1987
+637,6500000,Bahria Town Rawalpindi,2,3,816
+638,2700000,Bahria Town Rawalpindi,2,2,762
+639,2500000,Bahria Town Rawalpindi,1,1,490
+640,2000000,Bahria Town Rawalpindi,1,2,789
+641,15000000,Bahria Town Rawalpindi,4,4,2286
+642,5300000,Bahria Town Rawalpindi,1,1,816
+643,3470000,Bahria Town Rawalpindi,1,1,544
+644,7700000,Bahria Town Rawalpindi,1,1,653
+645,6500000,Bahria Town Rawalpindi,2,2,1279
+646,4988000,Bahria Town Rawalpindi,2,2,816
+647,3800000,Bahria Town Rawalpindi,1,1,598
+648,7400000,Bahria Town Rawalpindi,2,2,1334
+649,2400000,Bahria Town Rawalpindi,1,1,435
+650,2400000,Bahria Town Rawalpindi,2,2,816
+651,8000000,Bahria Town Rawalpindi,3,3,1633
+652,8000000,Bahria Town Rawalpindi,2,2,1579
+653,5000000,Bahria Town Rawalpindi,2,2,1143
+654,3600000,Bahria Town Rawalpindi,1,2,1089
+655,3100000,Bahria Town Rawalpindi,1,2,952
+656,4700000,Bahria Town Rawalpindi,1,2,816
+657,3545000,Bahria Town Rawalpindi,1,1,871
+658,4500000,Bahria Town Rawalpindi,2,2,980
+659,8500000,Bahria Town Rawalpindi,2,1,980
+660,10800000,Bahria Town Rawalpindi,2,2,1551
+661,4400000,Bahria Town Rawalpindi,2,2,980
+662,2100000,Bahria Town Rawalpindi,1,2,952
+663,3200000,Bahria Town Rawalpindi,2,2,789
+664,7000000,Bahria Town Rawalpindi,3,3,1279
+665,3000000,Bahria Town Rawalpindi,1,1,626
+666,6800000,Bahria Town Rawalpindi,2,2,1442
+667,3100000,Bahria Town Rawalpindi,1,1,707
+668,4500000,Bahria Town Rawalpindi,2,3,1361
+669,5500000,Bahria Town Rawalpindi,2,2,1225
+670,3000000,Bahria Town Rawalpindi,1,1,544
+671,4500000,Bahria Town Rawalpindi,2,2,980
+672,3250000,Bahria Town Rawalpindi,1,1,626
+673,7000000,Bahria Town Rawalpindi,2,2,1143
+674,4000000,Bahria Town Rawalpindi,2,2,789
+675,5700000,Bahria Town Rawalpindi,2,2,1306
+676,3300000,Bahria Town Rawalpindi,2,2,816
+677,3300000,Bahria Town Rawalpindi,2,2,816
+678,3600000,Bahria Town Rawalpindi,1,2,1361
+679,5200000,Bahria Town Rawalpindi,1,1,680
+680,6200000,Bahria Town Rawalpindi,2,2,1143
+681,8250000,Bahria Town Rawalpindi,2,2,1334
+682,4200000,Bahria Town Rawalpindi,1,1,571
+683,4500000,Bahria Town Rawalpindi,1,1,816
+684,5250000,Bahria Town Rawalpindi,1,1,843
+685,8800000,Bahria Town Rawalpindi,2,1,1034
+686,3437000,Bahria Town Rawalpindi,1,1,626
+687,3437000,Bahria Town Rawalpindi,1,1,626
+688,7100000,Bahria Town Rawalpindi,2,1,980
+689,4500000,Bahria Town Rawalpindi,1,1,707
+690,3800000,Bahria Town Rawalpindi,1,1,571
+691,5000000,Bahria Town Rawalpindi,2,2,952
+692,6000000,Bahria Town Rawalpindi,2,2,1197
+693,13000000,Bahria Town Rawalpindi,2,2,1633
+694,7600000,Bahria Town Rawalpindi,2,1,980
+695,3500000,Bahria Town Rawalpindi,1,1,735
+696,13500000,Bahria Town Rawalpindi,3,2,1524
+697,4200000,Bahria Town Rawalpindi,1,1,843
+698,2400000,Bahria Town Rawalpindi,1,2,952
+699,10300000,Bahria Town Rawalpindi,2,2,1660
+700,6500000,Bahria Town Rawalpindi,2,1,980
+701,9500000,Bahria Town Rawalpindi,2,1,1116
+702,10000000,Bahria Town Rawalpindi,2,2,1932
+703,2600000,Bahria Town Rawalpindi,1,2,952
+704,2100000,Bahria Town Rawalpindi,1,1,544
+705,2750000,Bahria Town Rawalpindi,2,2,1089
+706,6500000,Bahria Town Rawalpindi,2,2,1197
+707,3500000,Bahria Town Rawalpindi,2,1,735
+708,2700000,Bahria Town Rawalpindi,1,2,816
+709,4000000,Bahria Town Rawalpindi,1,1,789
+710,3250000,Bahria Town Rawalpindi,1,2,952
+711,4900000,Bahria Town Rawalpindi,2,2,1197
+712,2699000,Bahria Town Rawalpindi,2,2,898
+713,5400000,Bahria Town Rawalpindi,2,2,1334
+714,10300000,Bahria Town Rawalpindi,3,3,1660
+715,3600000,Bahria Town Rawalpindi,1,2,1089
+716,2100000,Bahria Town Rawalpindi,1,1,544
+717,2350000,Bahria Town Rawalpindi,1,2,952
+718,6500000,Bahria Town Rawalpindi,2,1,980
+719,2800000,Bahria Town Rawalpindi,2,2,980
+720,2500000,Bahria Town Rawalpindi,1,2,952
+721,3300000,Bahria Town Rawalpindi,2,2,843
+722,4300000,Bahria Town Rawalpindi,2,2,1197
+723,3300000,Bahria Town Rawalpindi,2,2,735
+724,3000000,Bahria Town Rawalpindi,1,2,952
+725,4800000,Bahria Town Rawalpindi,2,2,1279
+726,2200000,Bahria Town Rawalpindi,1,1,435
+727,3700000,Bahria Town Rawalpindi,2,2,898
+728,7000000,Bahria Town Rawalpindi,2,1,980
+729,2200000,Bahria Town Rawalpindi,1,1,571
+730,6000000,Bahria Town Rawalpindi,2,2,1143
+731,2850000,Bahria Town Rawalpindi,1,2,980
+732,11000000,Bahria Town Rawalpindi,2,2,1932
+733,12500000,Bahria Town Rawalpindi,2,2,1524
+734,3150000,Bahria Town Rawalpindi,1,1,735
+735,7300000,Bahria Town Rawalpindi,2,1,1034
+736,9500000,Bahria Town Rawalpindi,2,3,1361
+737,5800000,Bahria Town Rawalpindi,2,2,843
+738,4500000,Bahria Town Rawalpindi,2,2,1089
+739,3200000,Bahria Town Rawalpindi,1,1,517
+740,3800000,Bahria Town Rawalpindi,1,1,571
+741,3500000,Bahria Town Rawalpindi,1,1,871
+742,8500000,Bahria Town Rawalpindi,3,3,1932
+743,5700000,Bahria Town Rawalpindi,2,2,1279
+744,3000000,Bahria Town Rawalpindi,1,1,735
+745,2300000,Bahria Town Rawalpindi,1,2,952
+746,5500000,Bahria Town Rawalpindi,2,2,1116
+747,17500000,Bahria Town Rawalpindi,4,4,2831
+748,10300000,Bahria Town Rawalpindi,3,3,1660
+749,8790000,Bahria Town Rawalpindi,2,2,1415
+750,4583000,Bahria Town Rawalpindi,1,1,735
+751,2400000,Bahria Town Rawalpindi,1,2,925
+752,6000000,Bahria Town Rawalpindi,3,2,871
+753,13500000,Bahria Town Rawalpindi,2,2,1742
+754,5500000,Bahria Town Rawalpindi,2,2,898
+755,4500000,Bahria Town Rawalpindi,1,1,653
+756,6500000,Bahria Town Rawalpindi,2,1,1034
+757,3795000,Bahria Town Rawalpindi,1,1,598
+758,4500000,Bahria Town Rawalpindi,2,2,1089
+759,6500000,Bahria Town Rawalpindi,1,1,871
+760,2100000,Bahria Town Rawalpindi,1,2,952
+761,10500000,Bahria Town Rawalpindi,2,2,1524
+762,5000000,Bahria Town Rawalpindi,1,1,1116
+763,5000000,Bahria Town Rawalpindi,2,2,1034
+764,7080000,Bahria Town Rawalpindi,2,2,1579
+765,9600000,Bahria Town Rawalpindi,2,2,1089
+766,2800000,Bahria Town Rawalpindi,2,2,762
+767,13500000,Bahria Town Rawalpindi,2,2,1524
+768,2800000,Bahria Town Rawalpindi,1,2,980
+769,7000000,Bahria Town Rawalpindi,2,2,1524
+770,2400000,Bahria Town Rawalpindi,1,2,952
+771,3500000,Bahria Town Rawalpindi,2,2,789
+772,2200000,Bahria Town Rawalpindi,1,1,435
+773,15000000,Bahria Town Rawalpindi,3,2,1579
+774,4000000,Bahria Town Rawalpindi,1,1,680
+775,3400000,Bahria Town Rawalpindi,1,2,980
+776,2400000,Bahria Town Rawalpindi,1,2,952
+777,3450000,Bahria Town Rawalpindi,1,1,653
+778,4200000,Bahria Town Rawalpindi,2,2,789
+779,13000000,Bahria Town Rawalpindi,2,2,1442
+780,9700000,Bahria Town Rawalpindi,2,2,1633
+781,11700000,Bahria Town Rawalpindi,3,3,2069
+782,9700000,Bahria Town Rawalpindi,2,2,1579
+783,6800000,Bahria Town Rawalpindi,2,1,1089
+784,9200000,Bahria Town Rawalpindi,2,2,1551
+785,5000000,Bahria Town Rawalpindi,2,2,1089
+786,5500000,Bahria Town Rawalpindi,2,2,1089
+787,3350000,Bahria Town Rawalpindi,1,1,653
+788,7080000,Bahria Town Rawalpindi,2,2,1089
+789,2300000,Bahria Town Rawalpindi,2,2,952
+790,9500000,Bahria Town Rawalpindi,2,1,1116
+791,2200000,Bahria Town Rawalpindi,1,1,544
+792,3750000,Bahria Town Rawalpindi,1,1,735
+793,5000000,Bahria Town Rawalpindi,2,2,980
+794,7500000,Bahria Town Rawalpindi,1,1,980
+795,2700000,Bahria Town Rawalpindi,2,2,1061
+796,3350000,Bahria Town Rawalpindi,1,1,626
+797,7000000,Bahria Town Rawalpindi,2,2,1579
+798,8000000,Bahria Town Rawalpindi,1,1,898
+799,2500000,Bahria Town Rawalpindi,1,2,952
+800,13500000,Bahria Town Rawalpindi,2,2,1089
+801,2700000,Bahria Town Rawalpindi,2,2,1034
+802,4200000,Bahria Town Rawalpindi,1,2,1361
+803,7080000,Bahria Town Rawalpindi,2,2,1143
+804,9700000,Bahria Town Rawalpindi,2,2,1089
+805,2400000,Bahria Town Rawalpindi,1,1,789
+806,4500000,Bahria Town Rawalpindi,2,2,980
+807,8200000,Bahria Town Rawalpindi,1,1,816
+808,6500000,Bahria Town Rawalpindi,2,2,1252
+809,3480000,Bahria Town Rawalpindi,1,1,653
+810,5000000,Bahria Town Rawalpindi,2,2,898
+811,3746000,Bahria Town Rawalpindi,1,1,653
+812,3731000,Bahria Town Rawalpindi,1,1,653
+813,3480000,Bahria Town Rawalpindi,1,1,653
+814,5000000,Bahria Town Rawalpindi,2,2,898
+815,3746000,Bahria Town Rawalpindi,1,1,653
+816,3480000,Bahria Town Rawalpindi,1,1,653
+817,2400000,Bahria Town Rawalpindi,1,1,789
+818,4500000,Bahria Town Rawalpindi,1,2,1361
+819,3500000,Bahria Town Rawalpindi,2,1,735
+820,5500000,Bahria Town Rawalpindi,2,2,789
+821,6700000,Bahria Town Rawalpindi,1,1,1034
+822,2700000,Bahria Town Rawalpindi,1,2,952
+823,2500000,Bahria Town Rawalpindi,1,2,952
+824,3500000,Bahria Town Rawalpindi,1,2,653
+825,9500000,Bahria Town Rawalpindi,2,2,1442
+826,5000000,Bahria Town Rawalpindi,2,2,1279
+827,2300000,Bahria Town Rawalpindi,1,2,1361
+828,11000000,Bahria Town Rawalpindi,2,2,1824
+829,2600000,Bahria Town Rawalpindi,1,2,1089
+830,7080000,Bahria Town Rawalpindi,2,2,1089
+831,6500000,Bahria Town Rawalpindi,2,2,1089
+832,5500000,Bahria Town Rawalpindi,2,2,952
+833,5500000,Bahria Town Rawalpindi,2,2,843
+834,3800000,Bahria Town Rawalpindi,1,1,571
+835,5200000,Bahria Town Rawalpindi,1,1,707
+836,4300000,Bahria Town Rawalpindi,1,1,598
+837,13500000,Bahria Town Rawalpindi,2,2,1442
+838,3800000,Bahria Town Rawalpindi,1,1,598
+839,7200000,Bahria Town Rawalpindi,2,1,980
+840,3500000,Bahria Town Rawalpindi,1,1,598
+841,12000000,Bahria Town Rawalpindi,2,2,1633
+842,6800000,Bahria Town Rawalpindi,1,1,598
+843,3300000,Bahria Town Rawalpindi,1,1,598
+844,13500000,Bahria Town Rawalpindi,3,2,1524
+845,1800000,Bahria Town Rawalpindi,2,1,980
+846,7080000,Bahria Town Rawalpindi,2,2,1143
+847,9500000,Bahria Town Rawalpindi,2,1,1116
+848,2900000,Bahria Town Rawalpindi,1,2,1361
+849,2900000,Bahria Town Rawalpindi,1,2,1361
+850,6500000,Bahria Town Rawalpindi,2,2,1089
+851,3500000,Bahria Town Rawalpindi,1,1,735
+852,6200000,Bahria Town Rawalpindi,2,2,1143
+853,3700000,Bahria Town Rawalpindi,2,2,980
+854,5000000,Bahria Town Rawalpindi,2,2,843
+855,3800000,Bahria Town Rawalpindi,1,1,871
+856,4000000,Bahria Town Rawalpindi,2,2,980
+857,5000000,Bahria Town Rawalpindi,2,2,1279
+858,4000000,Bahria Town Rawalpindi,2,2,980
+859,11800000,Bahria Town Rawalpindi,3,3,1905
+860,2000000,Bahria Town Rawalpindi,1,1,435
+861,4300000,Bahria Town Rawalpindi,1,2,1361
+862,3000000,Bahria Town Rawalpindi,1,1,435
+863,6000000,Bahria Town Rawalpindi,2,2,1279
+864,8000000,Bahria Town Rawalpindi,3,3,1905
+865,5000000,Bahria Town Rawalpindi,2,2,1279
+866,4500000,Bahria Town Rawalpindi,2,2,980
+867,4500000,Bahria Town Rawalpindi,1,1,626
+868,2400000,Bahria Town Rawalpindi,1,1,544
+869,2700000,Bahria Town Rawalpindi,1,2,1361
+870,2100000,Bahria Town Rawalpindi,1,2,952
+871,3100000,Bahria Town Rawalpindi,1,2,952
+872,6000000,Bahria Town Rawalpindi,2,1,1061
+873,3334000,Bahria Town Rawalpindi,1,1,626
+874,6539000,Bahria Town Rawalpindi,2,2,1225
+875,3500000,Bahria Town Rawalpindi,2,2,9256
+876,4000000,Bahria Town Rawalpindi,1,2,816
+877,16500000,Bahria Town Rawalpindi,2,2,2178
+878,4500000,Bahria Town Rawalpindi,1,1,544
+879,6500000,Bahria Town Rawalpindi,2,2,1306
+880,3300000,Bahria Town Rawalpindi,1,1,598
+881,7080000,Bahria Town Rawalpindi,2,2,1143
+882,2800000,Bahria Town Rawalpindi,1,2,952
+883,5800000,Bahria Town Rawalpindi,2,2,789
+884,3200000,Bahria Town Rawalpindi,1,3,1361
+885,3700000,Bahria Town Rawalpindi,2,2,816
+886,2200000,Bahria Town Rawalpindi,1,1,544
+887,4000000,Bahria Town Rawalpindi,2,2,980
+888,4000000,Bahria Town Rawalpindi,1,1,598
+889,3800000,Bahria Town Rawalpindi,1,1,598
+890,4300000,Bahria Town Rawalpindi,1,2,1361
+891,7000000,Bahria Town Rawalpindi,2,1,980
+892,2950000,Bahria Town Rawalpindi,1,2,816
+893,5000000,Bahria Town Rawalpindi,2,2,952
+894,7000000,Bahria Town Rawalpindi,2,1,1143
+895,5800000,Bahria Town Rawalpindi,2,2,1524
+896,4500000,Bahria Town Rawalpindi,1,1,653
+897,3600000,Bahria Town Rawalpindi,1,1,816
+898,3500000,Bahria Town Rawalpindi,2,2,1089
+899,1800000,Bahria Town Rawalpindi,1,1,544
+900,3500000,Bahria Town Rawalpindi,2,2,1089
+901,3200000,Bahria Town Rawalpindi,1,1,435
+902,3200000,Bahria Town Rawalpindi,1,1,762
+903,3300000,Bahria Town Rawalpindi,1,1,598
+904,5500000,Bahria Town Rawalpindi,2,2,1143
+905,3900000,Bahria Town Rawalpindi,1,1,898
+906,9900000,Bahria Town Rawalpindi,4,4,2014
+907,3480000,Bahria Town Rawalpindi,1,1,653
+908,5000000,Bahria Town Rawalpindi,2,2,898
+909,3746000,Bahria Town Rawalpindi,1,1,653
+910,3731000,Bahria Town Rawalpindi,1,1,653
+911,3480000,Bahria Town Rawalpindi,1,1,653
+912,5000000,Bahria Town Rawalpindi,2,2,898
+913,3746000,Bahria Town Rawalpindi,1,1,653
+914,3480000,Bahria Town Rawalpindi,1,1,653
+915,4500000,Bahria Town Rawalpindi,1,1,680
+916,3400000,Bahria Town Rawalpindi,2,2,1197
+917,8500000,Bahria Town Rawalpindi,3,2,1687
+918,3500000,Bahria Town Rawalpindi,1,1,626
+919,5000000,Bahria Town Rawalpindi,2,2,980
+920,6000000,Bahria Town Rawalpindi,2,2,1306
+921,3200000,Bahria Town Rawalpindi,1,1,490
+922,4200000,Bahria Town Rawalpindi,1,2,1361
+923,6400000,Bahria Town Rawalpindi,2,1,980
+924,2750000,Bahria Town Rawalpindi,1,2,1442
+925,2300000,Bahria Town Rawalpindi,1,2,1442
+926,3150000,Bahria Town Rawalpindi,1,2,1442
+927,3800000,Bahria Town Rawalpindi,1,2,1442
+928,3650000,Bahria Town Rawalpindi,2,2,1034
+929,717000,Bahria Town Rawalpindi,1,1,598
+930,717000,Bahria Town Rawalpindi,1,1,598
+931,14000000,Bahria Town Rawalpindi,2,2,1442
+932,2200000,Bahria Town Rawalpindi,1,2,598
+933,4500000,Bahria Town Rawalpindi,2,2,1089
+934,2200000,Bahria Town Rawalpindi,1,2,980
+935,7000000,Bahria Town Rawalpindi,2,1,1089
+936,1300000,Bahria Town Rawalpindi,2,2,1116
+937,665000,Bahria Town Rawalpindi,1,1,598
+938,576000,Bahria Town Rawalpindi,1,1,490
+939,1800000,Bahria Town Rawalpindi,1,1,544
+940,3500000,Bahria Town Rawalpindi,2,2,1089
+941,4500000,Bahria Town Rawalpindi,1,2,1361
+942,4200000,Bahria Town Rawalpindi,1,2,1361
+943,2300000,Bahria Town Rawalpindi,1,2,1361
+944,3300000,Bahria Town Rawalpindi,1,2,1361
+945,2900000,Bahria Town Rawalpindi,1,2,1361
+946,3300000,Bahria Town Rawalpindi,1,2,1361
+947,2900000,Bahria Town Rawalpindi,1,2,1361
+948,4000000,Bahria Town Rawalpindi,1,1,843
+949,1979000,Bahria Town Rawalpindi,3,3,1715
+950,5800000,Bahria Town Rawalpindi,2,2,1334
+951,5000000,Bahria Town Rawalpindi,2,2,1170
+952,1000000,Bahria Town Rawalpindi,1,1,816
+953,17500000,Bahria Town Rawalpindi,4,4,2831
+954,717000,Bahria Town Rawalpindi,1,1,598
+955,8800000,Bahria Town Rawalpindi,2,2,1415
+956,6800000,Bahria Town Rawalpindi,2,1,1197
+957,15000000,Bahria Town Rawalpindi,2,2,2069
+958,5200000,Bahria Town Rawalpindi,2,2,1034
+959,5800000,Bahria Town Rawalpindi,2,2,1497
+960,2500000,Bahria Town Rawalpindi,1,1,462
+961,9500000,Bahria Town Rawalpindi,2,1,1116
+962,6000000,Bahria Town Rawalpindi,2,2,980
+963,7000000,Bahria Town Rawalpindi,2,2,1143
+964,8000000,Bahria Town Rawalpindi,3,3,1687
+965,400000,Bahria Town Rawalpindi,1,1,843
+966,5000000,Bahria Town Rawalpindi,2,2,1279
+967,7080000,Bahria Town Rawalpindi,2,2,1143
+968,7080000,Bahria Town Rawalpindi,2,2,1143
+969,3200000,Bahria Town Rawalpindi,1,2,1143
+970,14000000,Bahria Town Rawalpindi,2,2,1442
+971,3200000,Bahria Town Rawalpindi,1,2,1143
+972,7400000,Bahria Town Rawalpindi,2,2,735
+973,1800000,Bahria Town Rawalpindi,2,1,980
+974,4000000,Bahria Town Rawalpindi,2,1,598
+975,2300000,Bahria Town Rawalpindi,1,1,490
+976,8500000,Bahria Town Rawalpindi,2,3,1715
+977,717000,Bahria Town Rawalpindi,1,1,598
+978,4000000,Bahria Town Rawalpindi,2,2,762
+979,1979000,Bahria Town Rawalpindi,3,3,1715
+980,5000000,Bahria Town Rawalpindi,1,1,762
+981,717000,Bahria Town Rawalpindi,1,1,598
+982,4000000,Bahria Town Rawalpindi,1,1,843
+983,1800000,Bahria Town Rawalpindi,1,1,544
+984,3500000,Bahria Town Rawalpindi,2,2,1089
+985,2500000,Bahria Town Rawalpindi,2,2,816
+986,5000000,Bahria Town Rawalpindi,1,2,952
+987,5100000,Bahria Town Rawalpindi,2,2,1361
+988,2900000,Bahria Town Rawalpindi,1,2,1361
+989,2900000,Bahria Town Rawalpindi,1,2,1361
+990,1247000,Bahria Town Rawalpindi,2,2,1116
+991,665000,Bahria Town Rawalpindi,1,1,598
+992,1300000,Bahria Town Rawalpindi,2,2,1116
+993,7500000,Bahria Town Rawalpindi,2,2,1442
+994,717000,Bahria Town Rawalpindi,1,1,598
+995,6200000,Bahria Town Rawalpindi,2,2,1143
+996,3300000,Bahria Town Rawalpindi,1,1,653
+997,9300000,Bahria Town Rawalpindi,3,3,1715
+998,6000000,Bahria Town Rawalpindi,2,2,980
+999,12800000,Bahria Town Rawalpindi,3,3,2205
+1000,3500000,Bahria Town Rawalpindi,2,1,653
+1001,9965000,Bahria Town Rawalpindi,3,3,1606
+1002,4800000,Bahria Town Rawalpindi,2,2,1170
+1003,2600000,Bahria Town Rawalpindi,1,2,1089
+1004,6500000,Bahria Town Rawalpindi,2,2,1442
+1005,6000000,Bahria Town Rawalpindi,2,2,980
+1006,7000000,Bahria Town Rawalpindi,2,2,1143
+1007,10000000,Bahria Town Rawalpindi,2,2,1442
+1008,3458000,Bahria Town Rawalpindi,1,1,653
+1009,1800000,Bahria Town Rawalpindi,1,1,544
+1010,1600000,Bahria Town Rawalpindi,2,1,1007
+1011,4000000,Bahria Town Rawalpindi,1,1,598
+1012,7000000,Bahria Town Rawalpindi,2,2,1279
+1013,8000000,Bahria Town Rawalpindi,1,1,1034
+1014,3200000,Bahria Town Rawalpindi,1,2,952
+1015,2800000,Bahria Town Rawalpindi,1,1,626
+1016,5000000,Bahria Town Rawalpindi,3,2,1279
+1017,3700000,Bahria Town Rawalpindi,2,2,816
+1018,4500000,Bahria Town Rawalpindi,1,1,653
+1019,6000000,Bahria Town Rawalpindi,2,2,980
+1020,2500000,Bahria Town Rawalpindi,1,1,435
+1021,3500000,Bahria Town Rawalpindi,2,2,1089
+1022,5000000,Bahria Town Rawalpindi,2,2,1279
+1023,5000000,Bahria Town Rawalpindi,1,1,571
+1024,3500000,Bahria Town Rawalpindi,2,2,1089
+1025,3400000,Bahria Town Rawalpindi,1,2,1361
+1026,1979000,Bahria Town Rawalpindi,3,3,1715
+1027,1247000,Bahria Town Rawalpindi,2,2,1116
+1028,665000,Bahria Town Rawalpindi,1,1,598
+1029,665000,Bahria Town Rawalpindi,1,1,598
+1030,6500000,Bahria Town Rawalpindi,2,2,1089
+1031,8000000,other,2,3,1932
+1032,6200000,other,3,3,1361
+1033,5600000,other,3,3,1361
+1034,4500000,other,2,3,1334
+1035,3550000,other,2,2,1061
+1036,3200000,other,1,1,843
+1037,6500000,other,2,3,1388
+1038,19400000,other,1,1,1170
+1039,31000000,other,2,2,1960
+1040,45000000,other,4,4,2450
+1041,43000000,other,2,2,2450
+1042,14000000,other,1,1,925
+1043,20000000,other,1,1,1197
+1044,2750000,Chak Shahzad,1,1,653
+1045,2500000,Chak Shahzad,1,1,598
+1046,2850000,Chak Shahzad,1,1,680
+1047,2750000,Chak Shahzad,1,1,653
+1048,2750000,Chak Shahzad,1,1,653
+1049,2500000,Chak Shahzad,1,1,598
+1050,2500000,Chak Shahzad,1,1,598
+1051,2850000,Chak Shahzad,1,1,680
+1052,2200000,other,2,2,898
+1053,3600000,other,2,2,1170
+1054,4800000,other,2,2,1334
+1055,4500000,other,2,2,1442
+1056,2000000,other,1,1,789
+1057,14000000,other,4,4,4356
+1058,5000000,other,2,2,1606
+1059,2200000,other,1,1,653
+1060,9000000,D-12,2,2,1089
+1061,6500000,D-12,2,2,1089
+1062,11000000,D-12,2,2,1334
+1063,5500000,D-12,2,2,1034
+1064,7000000,D-12,2,2,1034
+1065,6000000,D-12,2,2,1279
+1066,9000000,D-12,2,2,1089
+1067,6000000,D-17,3,2,1824
+1068,5500000,D-17,3,3,1932
+1069,3500000,D-17,2,2,1143
+1070,6000000,D-17,3,3,2069
+1071,3800000,D-17,2,2,1034
+1072,4500000,D-17,3,3,1279
+1073,5700000,D-17,3,2,1851
+1074,1750000,D-17,1,1,435
+1075,4600000,D-17,3,3,1470
+1076,1750000,D-17,1,1,435
+1077,3700000,D-17,3,3,1034
+1078,3700000,D-17,3,3,1034
+1079,5800000,D-17,3,3,1987
+1080,3700000,D-17,3,3,1034
+1081,5000000,D-17,3,3,1470
+1082,2800000,D-17,1,1,735
+1083,5000000,D-17,3,3,1470
+1084,4800000,D-17,3,3,1470
+1085,4800000,D-17,3,3,1470
+1086,4800000,D-17,3,3,1470
+1087,1700000,D-17,1,1,544
+1088,4200000,D-17,2,2,1334
+1089,5000000,D-17,3,2,1796
+1090,5800000,D-17,3,3,1932
+1091,4200000,D-17,2,2,1334
+1092,1800000,D-17,1,1,544
+1093,5100000,D-17,2,2,1279
+1094,4900000,D-17,3,3,1579
+1095,2100000,D-17,1,1,707
+1096,2900000,D-17,1,1,789
+1097,2000000,D-17,1,1,544
+1098,4000000,D-17,2,2,980
+1099,3800000,D-17,2,2,980
+1100,2000000,D-17,1,1,544
+1101,1700000,D-17,1,1,544
+1102,4000000,D-17,2,2,980
+1103,3800000,D-17,2,2,1034
+1104,2200000,D-17,1,1,544
+1105,3700000,D-17,3,3,1034
+1106,4500000,D-17,3,3,1470
+1107,3500000,D-17,2,2,1143
+1108,2000000,D-17,1,1,517
+1109,15500000,DHA Defence,4,4,3267
+1110,12500000,DHA Defence,3,3,2423
+1111,6500000,DHA Defence,2,2,1715
+1112,11500000,DHA Defence,4,3,3539
+1113,3600000,DHA Defence,2,2,980
+1114,12500000,DHA Defence,3,3,2423
+1115,4900000,DHA Defence,3,2,1334
+1116,4500000,DHA Defence,2,3,1061
+1117,12000000,DHA Defence,3,3,2477
+1118,2500000,DHA Defence,1,1,735
+1119,7800000,DHA Defence,3,2,2150
+1120,6800000,DHA Defence,3,3,1824
+1121,6500000,DHA Defence,4,3,1824
+1122,6750000,DHA Defence,4,3,1824
+1123,6800000,DHA Defence,2,2,1715
+1124,5100000,DHA Defence,3,2,1334
+1125,3700000,DHA Defence,2,2,980
+1126,5000000,DHA Defence,3,2,1334
+1127,11500000,DHA Defence,4,3,3539
+1128,6800000,DHA Defence,2,2,1715
+1129,4600000,DHA Defence,1,1,1170
+1130,6500000,DHA Defence,4,3,1824
+1131,7849000,DHA Defence,3,3,2150
+1132,3700000,DHA Defence,2,2,980
+1133,5100000,DHA Defence,2,2,1334
+1134,7000000,DHA Defence,4,3,1824
+1135,3800000,DHA Defence,2,2,980
+1136,5000000,DHA Defence,3,2,1334
+1137,3250000,DHA Defence,2,2,980
+1138,2450000,DHA Defence,1,1,735
+1139,4500000,DHA Defence,1,1,1143
+1140,3650000,DHA Defence,2,2,980
+1141,7800000,DHA Defence,3,3,2150
+1142,5500000,DHA Defence,3,3,1633
+1143,6800000,DHA Defence,3,3,1824
+1144,4500000,DHA Defence,1,1,952
+1145,16500000,DHA Defence,4,3,3267
+1146,16500000,DHA Defence,4,3,3158
+1147,5100000,DHA Defence,3,2,1334
+1148,6400000,DHA Defence,3,3,1824
+1149,3000000,DHA Defence,1,1,952
+1150,3500000,DHA Defence,1,1,1089
+1151,2450000,DHA Defence,1,1,735
+1152,7800000,DHA Defence,3,2,2150
+1153,16000000,DHA Defence,3,3,3158
+1154,5000000,DHA Defence,3,2,1334
+1155,3700000,DHA Defence,2,2,980
+1156,4500000,DHA Defence,2,2,980
+1157,12000000,DHA Defence,3,3,2477
+1158,17500000,DHA Defence,4,4,4846
+1159,3100000,DHA Defence,2,2,843
+1160,6300000,DHA Defence,3,3,1660
+1161,5600000,DHA Defence,2,2,1633
+1162,12500000,DHA Defence,4,4,3974
+1163,4700000,DHA Defence,2,2,1388
+1164,5400000,DHA Defence,3,2,1334
+1165,2700000,DHA Defence,2,2,789
+1166,6650000,DHA Defence,4,3,1824
+1167,4700000,DHA Defence,3,2,1388
+1168,6500000,DHA Defence,4,3,1824
+1169,3800000,DHA Defence,2,2,816
+1170,3500000,DHA Defence,2,2,980
+1171,5000000,DHA Defence,3,3,1334
+1172,3500000,DHA Defence,2,2,980
+1173,6600000,DHA Defence,3,3,1824
+1174,3400000,DHA Defence,2,2,980
+1175,3400000,DHA Defence,2,2,980
+1176,2950000,DHA Defence,1,1,762
+1177,6300000,DHA Defence,3,3,1660
+1178,13500000,DHA Defence,3,3,2722
+1179,3600000,DHA Defence,2,2,980
+1180,3800000,DHA Defence,2,2,980
+1181,3800000,DHA Defence,2,2,980
+1182,3850000,DHA Defence,2,2,980
+1183,2750000,DHA Defence,1,1,762
+1184,17000000,DHA Defence,3,3,3158
+1185,13000000,DHA Defence,3,4,3539
+1186,2600000,DHA Defence,1,1,735
+1187,2800000,DHA Defence,1,1,735
+1188,3600000,DHA Defence,1,1,843
+1189,3800000,DHA Defence,2,2,980
+1190,3800000,DHA Defence,2,2,980
+1191,3500000,DHA Defence,2,2,980
+1192,3600000,DHA Defence,1,1,843
+1193,6700000,DHA Defence,4,3,1824
+1194,3800000,DHA Defence,2,2,980
+1195,5000000,DHA Defence,3,2,1334
+1196,6600000,DHA Defence,2,2,1715
+1197,2500000,DHA Defence,1,1,735
+1198,4800000,DHA Defence,1,1,1170
+1199,3000000,DHA Defence,1,1,735
+1200,5000000,DHA Defence,1,1,952
+1201,3850000,DHA Defence,2,2,980
+1202,7300000,DHA Defence,4,3,1824
+1203,13000000,DHA Defence,4,3,3539
+1204,5099000,DHA Defence,3,2,1334
+1205,5000000,DHA Defence,2,2,1334
+1206,6500000,DHA Defence,3,3,1660
+1207,4500000,DHA Defence,1,1,1089
+1208,8200000,DHA Defence,3,3,1633
+1209,3650000,DHA Defence,2,2,980
+1210,5000000,DHA Defence,3,2,1334
+1211,6800000,DHA Defence,4,3,1824
+1212,5000000,DHA Defence,3,2,1334
+1213,2750000,DHA Defence,1,1,735
+1214,16500000,DHA Defence,3,3,3212
+1215,5100000,DHA Defence,3,2,1334
+1216,4000000,DHA Defence,2,2,980
+1217,7500000,DHA Defence,3,3,1824
+1218,4600000,DHA Defence,1,1,1170
+1219,4750000,DHA Defence,1,1,1170
+1220,9100000,DHA Defence,2,2,1851
+1221,17000000,DHA Defence,4,3,3512
+1222,18500000,DHA Defence,4,3,3512
+1223,3700000,DHA Defence,2,2,980
+1224,7800000,DHA Defence,2,2,2150
+1225,5100000,DHA Defence,3,3,1334
+1226,4800000,DHA Defence,1,1,1170
+1227,2800000,DHA Defence,1,1,735
+1228,6600000,DHA Defence,2,2,1715
+1229,5200000,DHA Defence,2,2,1334
+1230,3650000,DHA Defence,2,2,980
+1231,3800000,DHA Defence,2,2,980
+1232,19000000,DHA Defence,3,3,3539
+1233,12000000,DHA Defence,4,3,3566
+1234,6500000,DHA Defence,3,3,1824
+1235,4700000,DHA Defence,3,3,1388
+1236,5200000,DHA Defence,3,2,1334
+1237,4600000,DHA Defence,1,1,1170
+1238,4600000,DHA Defence,1,1,1170
+1239,4000000,DHA Defence,2,2,980
+1240,4000000,DHA Defence,2,2,980
+1241,7000000,DHA Defence,4,3,1824
+1242,2500000,DHA Defence,1,1,735
+1243,4600000,DHA Defence,2,2,980
+1244,3625000,DHA Defence,2,2,980
+1245,3700000,DHA Defence,2,2,980
+1246,5000000,DHA Defence,3,2,1334
+1247,5000000,DHA Defence,3,2,1334
+1248,6800000,DHA Defence,4,3,1824
+1249,2650000,DHA Defence,1,1,735
+1250,2450000,DHA Defence,1,1,735
+1251,5700000,DHA Defence,3,2,1633
+1252,16500000,DHA Defence,3,3,3103
+1253,4000000,DHA Defence,2,2,980
+1254,6200000,DHA Defence,3,3,1633
+1255,2600000,DHA Defence,1,1,735
+1256,12000000,DHA Defence,4,3,3539
+1257,3564000,DHA Defence,1,1,952
+1258,3650000,DHA Defence,2,2,980
+1259,2500000,DHA Defence,1,1,735
+1260,2400000,DHA Defence,1,1,762
+1261,4700000,DHA Defence,1,1,1170
+1262,2500000,DHA Defence,1,1,735
+1263,4600000,DHA Defence,1,1,1170
+1264,3500000,DHA Defence,1,1,1034
+1265,3200000,DHA Defence,2,2,980
+1266,4800000,DHA Defence,1,1,1170
+1267,7300000,DHA Defence,4,3,1824
+1268,3700000,DHA Defence,2,2,980
+1269,7600000,DHA Defence,3,3,1824
+1270,2850000,DHA Defence,1,1,735
+1271,4600000,DHA Defence,1,1,1143
+1272,7600000,DHA Defence,3,3,1824
+1273,4000000,DHA Defence,2,2,980
+1274,4500000,DHA Defence,1,1,1170
+1275,6800000,DHA Defence,2,2,1715
+1276,13000000,DHA Defence,4,3,3539
+1277,5000000,DHA Defence,3,2,1334
+1278,2850000,DHA Defence,1,1,735
+1279,4000000,DHA Defence,2,2,1061
+1280,13000000,DHA Defence,4,3,3512
+1281,7000000,DHA Defence,4,3,1824
+1282,3300000,DHA Defence,1,1,816
+1283,2500000,DHA Defence,1,1,735
+1284,3700000,DHA Defence,2,2,980
+1285,5000000,DHA Defence,3,2,1334
+1286,6800000,DHA Defence,4,3,1824
+1287,4500000,DHA Defence,1,1,1170
+1288,6600000,DHA Defence,2,2,1715
+1289,7000000,DHA Defence,2,2,1715
+1290,3750000,DHA Defence,2,2,980
+1291,7100000,DHA Defence,2,2,1851
+1292,11500000,DHA Defence,3,3,2477
+1293,4700000,DHA Defence,1,1,1170
+1294,4700000,DHA Defence,1,1,1170
+1295,4600000,DHA Defence,1,1,1170
+1296,7500000,DHA Defence,2,2,1851
+1297,13000000,DHA Defence,4,3,2423
+1298,7600000,DHA Defence,4,3,1824
+1299,11500000,DHA Defence,3,3,2477
+1300,4000000,DHA Defence,2,2,980
+1301,7200000,DHA Defence,2,2,1851
+1302,2400000,DHA Defence,1,1,735
+1303,4500000,DHA Defence,1,1,1170
+1304,15000000,DHA Defence,3,3,3158
+1305,3200000,DHA Defence,2,2,980
+1306,4900000,DHA Defence,1,1,1170
+1307,3500000,DHA Defence,2,2,843
+1308,5500000,DHA Defence,3,2,1633
+1309,2800000,DHA Defence,1,1,735
+1310,3600000,DHA Defence,1,1,1034
+1311,7200000,DHA Defence,2,2,1715
+1312,5808000,DHA Defence,1,1,1170
+1313,3900000,DHA Defence,2,2,980
+1314,3800000,DHA Defence,1,1,1061
+1315,3200000,DHA Defence,2,2,980
+1316,2800000,DHA Defence,1,1,735
+1317,2800000,DHA Defence,1,1,735
+1318,12500000,DHA Defence,3,3,2477
+1319,3900000,DHA Defence,2,2,980
+1320,5100000,DHA Defence,3,2,1334
+1321,4900000,DHA Defence,2,2,1143
+1322,2550000,DHA Defence,1,1,735
+1323,18500000,DHA Defence,4,4,3593
+1324,17000000,DHA Defence,4,3,3158
+1325,7300000,DHA Defence,3,3,1824
+1326,6900000,DHA Defence,2,2,1851
+1327,3750000,DHA Defence,2,2,980
+1328,3750000,DHA Defence,2,2,980
+1329,3800000,DHA Defence,2,2,980
+1330,8000000,DHA Defence,2,2,1851
+1331,3550000,DHA Defence,2,2,980
+1332,3550000,DHA Defence,2,2,980
+1333,4200000,DHA Defence,2,2,980
+1334,3800000,DHA Defence,2,2,980
+1335,2800000,DHA Defence,1,1,735
+1336,1830000,DHA Defence,1,1,435
+1337,4000000,DHA Defence,2,2,980
+1338,3353000,DHA Defence,1,1,816
+1339,7800000,DHA Defence,3,3,2150
+1340,10500000,DHA Defence,3,3,2477
+1341,3700000,DHA Defence,2,2,980
+1342,6600000,DHA Defence,4,4,1824
+1343,4100000,DHA Defence,2,2,980
+1344,6000000,DHA Defence,1,1,1170
+1345,4500000,DHA Defence,2,1,952
+1346,3550000,DHA Defence,2,2,980
+1347,4100000,DHA Defence,1,1,952
+1348,8000000,DHA Defence,3,3,2150
+1349,3600000,DHA Defence,2,2,980
+1350,3600000,DHA Defence,2,2,980
+1351,5300000,DHA Defence,2,2,1089
+1352,3700000,DHA Defence,2,2,980
+1353,3850000,DHA Defence,2,2,980
+1354,3600000,DHA Defence,2,2,980
+1355,4564000,DHA Defence,1,1,952
+1356,2550000,DHA Defence,1,1,735
+1357,11500000,DHA Defence,3,3,2477
+1358,3520000,DHA Defence,1,1,816
+1359,5808000,DHA Defence,1,1,1170
+1360,7500000,DHA Defence,2,2,1851
+1361,2700000,DHA Defence,1,1,735
+1362,3700000,DHA Defence,2,2,980
+1363,3700000,DHA Defence,2,2,980
+1364,2450000,DHA Defence,1,1,735
+1365,7500000,DHA Defence,2,2,1851
+1366,15500000,DHA Defence,3,3,3212
+1367,2550000,DHA Defence,1,1,735
+1368,2700000,DHA Defence,1,1,735
+1369,7500000,DHA Defence,3,2,2150
+1370,9500000,DHA Defence,3,3,2368
+1371,3900000,DHA Defence,2,2,980
+1372,3800000,DHA Defence,2,2,980
+1373,6600000,DHA Defence,2,2,1769
+1374,6200000,DHA Defence,1,1,1170
+1375,3900000,DHA Defence,2,2,980
+1376,5808000,DHA Defence,1,1,1170
+1377,3800000,DHA Defence,2,2,980
+1378,6600000,DHA Defence,2,2,1715
+1379,5200000,DHA Defence,3,2,1334
+1380,4000000,DHA Defence,2,2,980
+1381,2900000,DHA Defence,1,1,735
+1382,9500000,DHA Defence,3,3,2477
+1383,4720000,DHA Defence,2,2,1143
+1384,4500000,DHA Defence,1,1,1089
+1385,8000000,DHA Defence,3,3,1633
+1386,3700000,DHA Defence,2,2,980
+1387,4000000,DHA Defence,2,2,980
+1388,3800000,DHA Defence,2,2,816
+1389,3700000,DHA Defence,2,2,980
+1390,12000000,DHA Defence,3,3,2477
+1391,3700000,DHA Defence,2,2,980
+1392,16500000,DHA Defence,3,3,3212
+1393,7800000,DHA Defence,3,2,2150
+1394,13000000,DHA Defence,4,3,3539
+1395,3700000,DHA Defence,2,2,980
+1396,2700000,DHA Defence,1,1,762
+1397,3800000,DHA Defence,2,2,980
+1398,3900000,DHA Defence,2,2,980
+1399,5808000,DHA Defence,1,1,1170
+1400,4000000,DHA Defence,2,2,980
+1401,4000000,DHA Defence,2,2,980
+1402,4000000,DHA Defence,2,2,980
+1403,4000000,DHA Defence,2,2,980
+1404,7600000,DHA Defence,4,3,1824
+1405,4700000,DHA Defence,1,1,1170
+1406,5200000,DHA Defence,3,2,1334
+1407,12000000,DHA Defence,3,3,2477
+1408,8000000,DHA Defence,3,3,2150
+1409,7500000,DHA Defence,2,2,1851
+1410,4000000,DHA Defence,2,2,980
+1411,5000000,DHA Defence,1,1,1143
+1412,3700000,DHA Defence,2,2,980
+1413,2800000,DHA Defence,1,1,789
+1414,35000000,Diplomatic Enclave,3,3,1932
+1415,48000000,Diplomatic Enclave,2,2,2123
+1416,47000000,Diplomatic Enclave,2,3,2286
+1417,48000000,Diplomatic Enclave,2,3,3021
+1418,33000000,Diplomatic Enclave,3,2,2178
+1419,46000000,Diplomatic Enclave,2,2,2423
+1420,43000000,Diplomatic Enclave,2,2,1824
+1421,10000000,Diplomatic Enclave,1,1,544
+1422,62500000,Diplomatic Enclave,4,3,3158
+1423,25000000,Diplomatic Enclave,3,3,2123
+1424,10500000,Diplomatic Enclave,1,1,598
+1425,25500000,Diplomatic Enclave,2,2,2178
+1426,36000000,Diplomatic Enclave,3,2,2123
+1427,29000000,Diplomatic Enclave,2,2,1742
+1428,12500000,Diplomatic Enclave,1,1,598
+1429,9500000,Diplomatic Enclave,1,1,544
+1430,49000000,Diplomatic Enclave,3,2,2586
+1431,11000000,Diplomatic Enclave,1,1,490
+1432,50000000,Diplomatic Enclave,2,2,2423
+1433,45000000,Diplomatic Enclave,2,2,1824
+1434,55000000,Diplomatic Enclave,2,2,2314
+1435,50000000,Diplomatic Enclave,4,4,3620
+1436,30000000,Diplomatic Enclave,1,1,871
+1437,64000000,Diplomatic Enclave,2,2,1932
+1438,45000000,Diplomatic Enclave,3,3,3267
+1439,37000000,Diplomatic Enclave,2,2,2069
+1440,29000000,Diplomatic Enclave,2,2,2178
+1441,21000000,Diplomatic Enclave,2,2,1932
+1442,23000000,Diplomatic Enclave,3,3,2178
+1443,23500000,Diplomatic Enclave,3,3,2178
+1444,35000000,Diplomatic Enclave,2,2,1769
+1445,35000000,Diplomatic Enclave,3,3,2259
+1446,38000000,Diplomatic Enclave,2,2,2069
+1447,10500000,Diplomatic Enclave,1,1,490
+1448,9500000,Diplomatic Enclave,1,1,544
+1449,42500000,Diplomatic Enclave,3,3,3648
+1450,30000000,Diplomatic Enclave,3,2,1524
+1451,11000000,Diplomatic Enclave,1,1,653
+1452,8000000,Diplomatic Enclave,1,1,598
+1453,55000000,Diplomatic Enclave,3,2,2178
+1454,11500000,Diplomatic Enclave,1,1,571
+1455,38000000,Diplomatic Enclave,2,2,2069
+1456,50000000,Diplomatic Enclave,3,4,3620
+1457,40000000,Diplomatic Enclave,2,2,1905
+1458,8000000,Diplomatic Enclave,1,1,490
+1459,24000000,Diplomatic Enclave,2,2,2232
+1460,20000000,Diplomatic Enclave,3,2,2069
+1461,25000000,Diplomatic Enclave,2,2,2232
+1462,22500000,Diplomatic Enclave,3,3,2776
+1463,6900000,E-11,3,3,1524
+1464,7800000,E-11,2,2,1687
+1465,3600000,E-11,1,1,843
+1466,5000000,E-11,2,2,1089
+1467,6300000,E-11,3,3,1442
+1468,5000000,E-11,2,2,1089
+1469,3600000,E-11,1,1,843
+1470,4800000,E-11,2,2,1089
+1471,9900000,E-11,3,3,2069
+1472,5800000,E-11,2,2,1116
+1473,4500000,E-11,2,2,1279
+1474,4900000,E-11,2,2,898
+1475,2800000,E-11,1,1,462
+1476,8000000,E-11,3,3,2286
+1478,4000000,E-11,1,1,735
+1479,6000000,E-11,3,3,1252
+1480,5500000,E-11,1,1,789
+1481,12100000,E-11,4,4,2668
+1482,13500000,E-11,2,2,1932
+1483,17500000,E-11,3,3,2286
+1484,8000000,E-11,2,2,1579
+1485,8150000,E-11,3,3,1824
+1486,11500000,E-11,3,3,2069
+1487,7500000,E-11,3,3,1089
+1488,13500000,E-11,2,2,1932
+1489,8700000,E-11,3,3,1306
+1490,8500000,E-11,3,3,2069
+1491,7500000,E-11,2,2,1252
+1492,12000000,E-11,3,3,2776
+1493,12000000,E-11,2,2,2613
+1494,11000000,E-11,4,4,1497
+1495,5500000,E-11,2,2,1551
+1496,15000000,E-11,3,3,2776
+1497,6800000,E-11,2,2,1415
+1498,9000000,E-11,2,2,1524
+1499,4500000,E-11,1,1,735
+1500,10000000,E-11,4,4,2913
+1501,11100000,E-11,3,3,2069
+1502,7500000,E-11,2,2,1388
+1503,4500000,E-11,1,1,680
+1504,16500000,E-11,3,3,2286
+1505,10000000,E-11,3,3,1361
+1506,8000000,E-11,1,1,1034
+1507,5400000,E-11,1,1,1034
+1508,7500000,E-11,2,2,1089
+1509,9500000,E-11,3,3,1334
+1510,9000000,E-11,2,2,1442
+1511,23000000,E-11,4,4,3267
+1512,6000000,E-11,2,2,1089
+1513,4000000,E-11,1,1,898
+1514,14500000,E-11,4,3,2613
+1515,7000000,E-11,3,2,1089
+1516,6800000,E-11,1,1,980
+1517,5400000,E-11,1,1,1034
+1518,6000000,E-11,2,2,871
+1519,10000000,E-11,3,3,2776
+1520,16000000,E-11,3,3,2286
+1521,10000000,E-11,3,3,2613
+1522,7600000,E-11,2,2,1279
+1523,7500000,E-11,3,3,1306
+1524,9000000,E-11,3,3,2069
+1525,6500000,E-11,2,2,980
+1526,8500000,E-11,2,2,1089
+1527,2800000,E-11,1,1,462
+1528,11500000,E-11,3,3,1987
+1529,7000000,E-11,2,2,1442
+1530,12000000,E-11,3,3,2123
+1531,7000000,E-11,2,2,898
+1532,11500000,E-11,3,3,2069
+1533,4500000,E-11,1,1,980
+1534,7500000,E-11,2,2,1089
+1535,5200000,E-11,2,2,843
+1536,7000000,E-11,2,2,1334
+1537,5850000,E-11,1,1,843
+1538,6550000,E-11,2,2,1143
+1539,5600000,E-11,1,1,843
+1540,6000000,E-11,1,1,980
+1541,8000000,E-11,3,3,1932
+1542,4400000,E-11,2,2,1089
+1543,13500000,E-11,3,3,1769
+1544,7500000,E-11,2,2,1579
+1545,6700000,E-11,3,3,1361
+1546,7500000,E-11,3,3,1388
+1547,13000000,E-11,3,3,1987
+1548,4300000,E-11,2,2,898
+1549,5500000,E-11,1,1,1089
+1550,8500000,E-11,2,2,1279
+1551,4300000,E-11,2,2,898
+1552,7500000,E-11,2,2,1442
+1553,5200000,E-11,1,1,789
+1554,6500000,E-11,1,1,1197
+1555,7000000,E-11,2,2,1089
+1556,7200000,E-11,2,2,2069
+1557,12500000,E-11,3,3,3021
+1558,5500000,E-11,2,2,1089
+1559,7800000,E-11,2,2,1415
+1560,12500000,E-11,3,3,2776
+1561,10000000,E-11,3,3,1932
+1562,5000000,E-11,2,1,816
+1563,8500000,E-11,3,3,1442
+1564,5500000,E-11,2,2,1415
+1565,6000000,E-11,1,1,1388
+1566,7400000,E-11,2,2,1633
+1567,7600000,E-11,2,2,1279
+1568,16000000,E-11,3,3,2069
+1569,7500000,E-11,2,2,1279
+1570,5500000,E-11,1,1,1034
+1571,16500000,E-11,3,3,2613
+1572,8000000,E-11,2,2,1442
+1573,10500000,E-11,3,3,1905
+1574,6500000,E-11,2,2,1415
+1575,8000000,E-11,2,2,1089
+1576,18000000,E-11,3,3,2286
+1577,11500000,E-11,3,3,2178
+1578,9000000,E-11,2,2,1524
+1579,11500000,E-11,3,3,2178
+1580,3800000,E-11,1,1,544
+1581,5500000,E-11,1,1,1034
+1582,12000000,E-11,3,3,1633
+1583,2900000,E-11,1,1,490
+1584,10000000,E-11,4,4,1687
+1585,9500000,E-11,3,3,1388
+1586,6000000,E-11,2,2,1116
+1587,18000000,E-11,4,3,2286
+1588,6500000,E-11,2,2,1143
+1589,9200000,E-11,3,3,1687
+1590,9500000,E-11,3,3,1687
+1591,7000000,E-11,2,2,1279
+1592,10500000,E-11,3,3,1987
+1593,9000000,E-11,2,3,2423
+1594,17000000,E-11,3,3,2178
+1595,7500000,E-11,2,2,1633
+1596,6200000,E-11,3,3,1442
+1597,5400000,E-11,1,1,1034
+1598,6500000,E-11,3,3,1633
+1599,9000000,E-11,3,3,1932
+1600,5800000,E-11,2,2,816
+1601,14500000,E-11,4,3,2531
+1602,3000000,E-11,1,1,653
+1603,6000000,E-11,2,2,1034
+1604,15000000,E-11,4,4,2286
+1605,8500000,E-11,2,2,1334
+1606,9500000,E-11,3,2,1878
+1607,7500000,E-11,2,2,1361
+1608,8500000,E-11,2,2,1442
+1609,8500000,E-11,2,2,1361
+1610,9000000,E-11,2,2,1415
+1611,8500000,E-11,3,3,1824
+1612,6000000,E-11,1,2,1116
+1613,10000000,E-11,3,3,2831
+1614,6500000,E-11,3,3,1878
+1615,5500000,E-11,2,2,898
+1616,6500000,E-11,3,3,1143
+1617,5000000,E-11,1,1,843
+1618,7000000,E-11,2,2,1279
+1619,9500000,E-11,3,3,1824
+1620,10000000,E-11,3,3,1932
+1621,7000000,E-11,2,2,1334
+1622,7500000,E-11,2,2,1334
+1623,8000000,E-11,2,2,1334
+1624,4500000,E-11,2,2,980
+1625,6500000,E-11,2,2,1034
+1626,5500000,E-11,2,2,980
+1627,7500000,E-11,2,2,1524
+1628,11000000,E-11,3,3,2776
+1629,7500000,E-11,3,3,1742
+1630,6000000,E-11,2,2,1442
+1631,5500000,E-11,2,2,1415
+1632,6000000,E-11,2,2,980
+1633,5000000,E-11,1,1,653
+1634,7500000,E-11,2,2,1442
+1635,5800000,E-11,2,2,816
+1636,8000000,E-11,2,2,1089
+1637,7500000,E-11,2,2,1442
+1638,7000000,E-11,2,2,1361
+1639,10000000,E-11,3,3,2069
+1640,9500000,E-11,3,3,2776
+1641,8000000,E-11,3,3,1579
+1642,6500000,E-11,2,2,1089
+1643,8600000,E-11,3,3,1089
+1644,9500000,E-11,2,2,2640
+1645,13000000,E-11,3,3,2531
+1646,18000000,E-11,3,3,2613
+1647,7000000,E-11,2,2,1279
+1648,7500000,E-11,2,2,1361
+1649,10000000,E-11,3,3,1742
+1650,5100000,E-11,1,1,735
+1651,7300000,E-11,2,2,1334
+1652,9000000,E-11,4,4,1579
+1653,10500000,E-11,3,2,1633
+1654,6500000,E-11,2,2,898
+1655,4200000,E-11,1,1,1034
+1656,6200000,E-11,2,2,1034
+1657,16000000,E-11,4,3,2232
+1658,5800000,E-11,2,2,1116
+1659,7800000,E-11,3,3,1334
+1660,5700000,E-11,2,2,898
+1661,8500000,E-11,2,2,1633
+1662,11500000,E-11,3,3,2069
+1663,3600000,E-11,2,2,735
+1664,8000000,E-11,2,2,1089
+1665,10000000,E-11,3,3,1633
+1666,7000000,E-11,2,2,898
+1667,6000000,E-11,2,2,1089
+1668,8000000,E-11,2,2,1089
+1669,11000000,E-11,3,3,1579
+1670,5900000,E-11,3,3,1687
+1671,4000000,E-11,1,1,544
+1672,8000000,E-11,3,3,1579
+1673,12000000,E-11,3,2,1633
+1674,35000000,F-10,3,3,2722
+1675,33000000,F-10,2,2,1824
+1676,20000000,F-10,3,3,2531
+1677,9600000,F-10,1,1,789
+1678,36000000,F-10,3,3,2123
+1679,40000000,F-10,3,3,2123
+1680,36500000,F-10,3,3,2531
+1681,35900000,F-10,3,3,2531
+1682,42500000,F-10,3,3,2885
+1683,30000000,F-10,3,3,2423
+1684,40000000,F-10,3,3,2531
+1685,40000000,F-10,3,3,2531
+1686,40000000,F-10,3,3,2776
+1687,32500000,F-10,2,2,1742
+1688,40000000,F-10,3,3,2531
+1689,40000000,F-10,3,3,2531
+1690,32000000,F-10,3,3,2123
+1691,36500000,F-10,3,3,2668
+1692,32500000,F-10,3,3,2123
+1693,50000000,F-10,4,4,4546
+1694,26000000,F-10,2,2,1470
+1695,24000000,F-10,1,2,1470
+1696,14500000,F-10,3,3,2178
+1697,16500000,F-10,3,3,2232
+1698,54000000,F-10,4,4,3865
+1699,40000000,F-10,3,3,2069
+1700,31500000,F-10,3,3,1824
+1701,34500000,F-10,3,3,2531
+1702,41500000,F-10,3,3,2205
+1703,18500000,F-10,3,3,2531
+1704,39500000,F-10,3,3,2531
+1705,32000000,F-10,3,3,2123
+1706,32000000,F-10,3,3,2123
+1707,38000000,F-10,3,3,2531
+1708,16500000,F-10,2,2,2531
+1709,35000000,F-10,3,3,2531
+1710,12500000,F-10,1,2,653
+1711,32000000,F-10,3,3,2123
+1712,38500000,F-10,3,3,2531
+1713,32000000,F-10,3,3,2123
+1714,62000000,F-10,4,4,4546
+1715,32000000,F-10,3,3,2123
+1716,22000000,F-10,3,3,2531
+1717,35000000,F-10,3,3,2123
+1718,18000000,F-11,3,3,3158
+1719,7800000,F-11,1,1,1089
+1720,30000000,F-11,3,3,3348
+1721,23000000,F-11,3,3,3811
+1722,8500000,F-11,1,1,1524
+1723,23000000,F-11,3,3,3920
+1724,7000000,F-11,1,1,1143
+1725,17500000,F-11,2,2,2123
+1726,8500000,F-11,1,1,1034
+1727,31500000,F-11,4,4,4002
+1728,7500000,F-11,1,1,1089
+1729,14500000,F-11,2,2,1633
+1730,14500000,F-11,2,2,2531
+1731,16000000,F-11,2,2,2069
+1732,28000000,F-11,4,3,3620
+1733,32500000,F-11,3,3,3512
+1734,6500000,F-11,1,1,898
+1735,31000000,F-11,4,4,4110
+1736,19000000,F-11,2,2,2559
+1737,25000000,F-11,4,4,4083
+1738,25000000,F-11,3,3,3375
+1739,7500000,F-11,1,1,898
+1740,15000000,F-11,1,2,2178
+1741,15000000,F-11,3,2,2069
+1742,19000000,F-11,3,3,3130
+1743,15000000,F-11,2,2,1987
+1744,20000000,F-11,3,3,2178
+1745,22000000,F-11,3,3,2531
+1746,30000000,F-11,4,4,4247
+1747,35000000,F-11,3,3,4110
+1748,18000000,F-11,2,2,2559
+1749,10000000,F-11,2,2,1361
+1750,25000000,F-11,3,3,2804
+1751,18500000,F-11,2,2,3321
+1752,11500000,F-11,2,2,2069
+1753,35000000,F-11,3,3,4110
+1754,31500000,F-11,4,4,4002
+1755,30000000,F-11,4,4,3620
+1756,29000000,F-11,3,3,3321
+1757,15000000,F-11,2,2,2531
+1758,12000000,F-11,2,2,2069
+1759,12500000,F-11,2,2,1905
+1760,23500000,F-11,3,3,3811
+1761,14500000,F-11,2,2,1687
+1762,8000000,F-11,1,1,1034
+1763,14000000,F-11,2,2,1633
+1764,20000000,F-11,3,3,2259
+1765,5800000,F-11,1,1,789
+1766,21000000,F-11,4,3,2668
+1767,32000000,F-11,4,4,4110
+1768,11000000,F-11,2,2,1742
+1769,11000000,F-11,2,2,1987
+1770,27000000,F-11,3,3,4247
+1771,7000000,F-11,1,1,816
+1772,23500000,F-11,3,3,3375
+1773,20000000,F-11,3,3,2776
+1774,8500000,F-11,1,1,1524
+1775,8500000,F-11,1,1,1034
+1776,15500000,F-11,2,2,1687
+1777,22000000,F-11,3,3,3021
+1778,21000000,F-11,3,3,2531
+1779,30000000,F-11,3,3,4356
+1780,32500000,F-11,4,4,4655
+1781,30000000,F-11,4,4,4110
+1782,7500000,F-11,1,1,1034
+1783,10000000,F-11,2,2,1442
+1784,9500000,F-11,2,2,1442
+1785,23000000,F-11,3,3,3321
+1786,22000000,F-11,3,2,3267
+1787,18000000,F-11,3,2,3158
+1788,9000000,F-11,2,2,1442
+1789,15500000,F-11,2,2,1687
+1790,10000000,F-11,2,2,1442
+1791,4500000,F-11,1,1,598
+1792,17000000,F-11,3,3,2423
+1793,18500000,F-11,2,2,2913
+1794,11000000,F-11,1,1,1197
+1795,18500000,F-11,2,2,3321
+1796,16000000,F-11,3,3,2531
+1797,20000000,F-11,3,3,2776
+1798,9000000,F-11,1,1,980
+1799,5300000,F-11,1,1,898
+1800,11000000,F-11,2,2,1442
+1801,26500000,F-11,3,3,3076
+1802,27500000,F-11,4,4,3267
+1803,25000000,F-11,3,3,3321
+1804,12000000,F-11,2,2,2123
+1805,9500000,F-11,2,1,1197
+1806,12500000,F-11,2,2,1361
+1807,13000000,F-11,2,2,1742
+1808,21500000,F-11,3,3,3267
+1809,21500000,F-11,3,3,3321
+1810,8500000,F-11,1,1,1524
+1811,11000000,F-11,2,2,1442
+1812,25000000,F-11,4,4,3267
+1813,8000000,F-11,1,1,898
+1814,28000000,F-11,4,4,4165
+1815,15000000,F-11,2,2,1606
+1816,16000000,F-11,2,2,1742
+1817,22500000,F-11,3,3,3566
+1818,10000000,F-11,2,2,1524
+1819,23000000,F-11,3,3,3539
+1820,18500000,F-11,3,3,3158
+1821,7300000,F-11,1,1,898
+1822,20000000,F-11,3,3,3566
+1823,25000000,F-11,3,3,3321
+1824,8500000,F-11,1,1,1524
+1825,8500000,F-11,1,1,1197
+1826,11500000,F-11,2,2,1388
+1827,7500000,F-11,1,1,898
+1828,19500000,F-11,3,3,3267
+1829,14000000,F-11,2,2,1579
+1830,9500000,F-11,2,2,1442
+1831,20000000,F-11,3,3,2776
+1832,18000000,F-11,3,3,2776
+1833,17000000,F-11,3,3,2776
+1834,16000000,F-11,3,3,2776
+1835,11000000,F-11,2,2,1987
+1836,7500000,F-11,1,1,898
+1837,7300000,F-11,1,1,898
+1838,7200000,F-11,1,1,898
+1839,7100000,F-11,1,1,898
+1840,7000000,F-11,1,1,898
+1841,13500000,F-11,2,2,2123
+1842,21000000,F-11,3,3,3457
+1843,9500000,F-11,2,2,1442
+1844,18500000,F-11,3,3,2913
+1845,20000000,F-11,3,3,3620
+1846,16500000,F-11,3,3,2776
+1847,8500000,F-11,2,2,1442
+1848,8500000,F-11,2,2,1442
+1849,20000000,F-11,3,3,3512
+1850,9000000,F-11,1,1,1524
+1851,12000000,F-11,2,2,2069
+1852,30000000,F-11,3,3,3267
+1853,27000000,F-11,3,3,3267
+1854,8500000,F-11,1,1,1524
+1855,9500000,F-11,2,2,1442
+1856,11000000,F-11,2,2,1932
+1857,26000000,F-11,3,3,3158
+1858,20000000,F-11,3,3,3457
+1859,15500000,F-11,2,2,1687
+1860,15500000,F-11,2,2,1687
+1861,25000000,F-11,3,3,3321
+1862,18500000,F-11,3,2,3321
+1863,10000000,F-11,2,2,1579
+1864,7200000,F-11,1,1,898
+1865,7300000,F-11,1,1,898
+1866,8500000,F-11,1,1,1442
+1867,7000000,F-11,1,1,789
+1868,16500000,F-11,2,2,2559
+1869,21000000,F-11,3,3,2259
+1870,32000000,F-11,3,3,4410
+1871,9000000,F-11,2,2,1334
+1872,8000000,F-11,1,1,898
+1873,9500000,F-11,2,2,1089
+1874,9500000,F-11,2,2,1388
+1875,12500000,F-11,2,2,1987
+1876,22000000,F-11,3,3,2613
+1877,25000000,F-11,3,3,2722
+1878,11000000,F-11,2,2,1987
+1879,20000000,F-11,3,3,2368
+1880,18000000,F-11,3,3,2368
+1881,16000000,F-11,2,2,1878
+1882,10000000,F-11,2,2,1742
+1883,14000000,F-11,2,2,1987
+1884,16000000,F-11,2,2,1987
+1885,17000000,F-11,2,2,1987
+1886,13000000,F-11,3,3,2232
+1887,11000000,F-11,2,2,1987
+1888,23000000,F-11,3,3,2722
+1889,16000000,F-11,2,2,2559
+1890,8800000,F-11,1,1,1524
+1891,7400000,F-11,1,1,898
+1892,32500000,F-11,3,3,4356
+1893,25000000,F-11,3,3,4356
+1894,18000000,F-11,3,3,3021
+1895,19000000,F-11,3,3,3021
+1896,18500000,F-11,3,3,2967
+1897,18500000,F-11,2,2,2722
+1898,17500000,F-11,2,2,2722
+1899,17000000,F-11,2,2,2722
+1900,16500000,F-11,2,2,2722
+1901,16500000,F-11,2,2,2722
+1902,15500000,F-11,3,3,1660
+1903,25000000,F-11,3,3,3321
+1904,25000000,F-11,3,3,3267
+1905,25000000,F-11,3,3,3321
+1906,25000000,F-11,3,3,3267
+1907,17000000,F-11,2,2,1932
+1908,23500000,F-11,3,3,3321
+1909,3200000,F-17,2,2,1007
+1910,5500000,F-17,3,3,1470
+1911,4500000,F-17,3,2,1334
+1912,3200000,F-17,2,2,980
+1913,3800000,F-17,2,2,1089
+1914,3800000,F-17,2,2,1089
+1915,3800000,F-17,2,2,1089
+1916,4000000,F-17,2,2,980
+1917,4000000,F-17,2,2,980
+1918,4500000,F-17,2,2,1361
+1919,3800000,F-17,2,2,1089
+1920,4500000,F-17,2,2,1524
+1921,4200000,F-17,2,2,1089
+1922,4200000,F-17,2,2,1089
+1923,4200000,F-17,2,2,1089
+1924,4400000,F-17,2,2,980
+1925,4000000,F-17,2,2,980
+1926,3000000,F-17,2,2,898
+1927,3200000,F-17,2,2,1089
+1928,4400000,F-17,2,2,980
+1929,16500000,F-8,1,1,816
+1930,29500000,F-8,2,2,1824
+1932,23500000,F-8,1,1,1061
+1933,42500000,F-8,3,2,2722
+1934,50000000,F-8,2,2,2423
+1935,23000000,F-8,1,1,1061
+1936,31600000,F-8,1,1,1442
+1937,20000000,F-8,2,1,1061
+1938,57500000,F-8,3,3,2994
+1939,53500000,F-8,4,3,3185
+1940,52000000,F-8,4,3,3185
+1941,125000000,F-8,4,4,5445
+1942,55000000,F-8,3,3,2450
+1943,20500000,F-8,1,1,1034
+1946,47000000,F-8,3,2,2341
+1947,56500000,F-8,4,3,3185
+1948,40000000,F-8,2,2,2450
+1949,20500000,F-8,1,1,1034
+1950,32500000,F-8,3,2,1388
+1951,32500000,F-8,3,2,1388
+1952,32500000,F-8,3,2,1388
+1953,31500000,F-8,2,2,1824
+1954,47500000,F-8,3,2,2722
+1955,20500000,F-8,1,1,1034
+1956,20500000,F-8,1,1,1034
+1957,4900000,FECHS,2,2,1252
+1958,3000000,FECHS,1,1,762
+1959,4400000,FECHS,2,2,1143
+1960,4500000,FECHS,2,2,1252
+1961,2400000,FECHS,1,1,571
+1962,4400000,FECHS,2,2,1143
+1963,3000000,FECHS,2,2,735
+1964,4500000,FECHS,2,2,1252
+1965,3100000,FECHS,2,2,789
+1966,4200000,FECHS,2,2,1143
+1967,2900000,FECHS,2,2,789
+1968,8500000,G-10,3,2,1089
+1969,7950000,G-10,2,2,1170
+1970,8500000,G-10,2,2,1116
+1971,7000000,G-10,2,2,1089
+1972,8000000,G-10,2,2,1089
+1973,8000000,G-10,2,2,1089
+1974,7500000,G-10,2,2,1089
+1975,8000000,G-10,2,2,1089
+1976,6200000,G-10,2,2,1089
+1977,7000000,G-10,2,2,1089
+1978,5500000,G-10,1,2,735
+1979,6700000,G-10,2,2,1089
+1980,8500000,G-10,2,2,1089
+1981,6800000,G-10,2,2,1089
+1982,6500000,G-10,2,2,1089
+1983,7000000,G-10,2,2,1089
+1984,6200000,G-10,2,2,1089
+1985,6750000,G-10,2,2,1089
+1986,8000000,G-11,2,2,1824
+1987,7000000,G-11,1,2,1089
+1988,10500000,G-11,3,3,1334
+1989,8500000,G-11,3,3,1334
+1990,9500000,G-11,2,2,1089
+1991,8000000,G-11,2,2,1388
+1992,11000000,G-11,3,3,1334
+1993,15200000,G-11,2,2,1960
+1994,15600000,G-11,3,3,1960
+1995,24500000,G-11,3,3,2559
+1996,4800000,G-11,2,2,843
+1997,14000000,G-11,2,2,1932
+1998,23500000,G-11,3,3,3158
+1999,9000000,G-11,2,3,1334
+2000,21000000,G-11,3,3,2613
+2001,6500000,G-11,2,2,816
+2002,22500000,G-11,3,3,2613
+2003,21500000,G-11,3,3,2613
+2004,7100000,G-11,2,2,1089
+2005,7600000,G-11,2,3,1334
+2006,5200000,G-11,2,2,843
+2007,12000000,G-11,2,2,1878
+2008,7200000,G-11,2,3,1089
+2009,21000000,G-11,3,3,2531
+2010,8000000,G-11,1,1,1089
+2011,7500000,G-11,2,2,1252
+2012,5300000,G-11,2,2,843
+2013,16600000,G-11,2,2,1960
+2014,10000000,G-11,3,3,1878
+2015,23000000,G-11,3,3,2668
+2016,5600000,G-11,2,2,898
+2017,10000000,G-11,2,3,1334
+2018,22500000,G-11,3,3,2423
+2019,8300000,G-11,2,2,1089
+2020,16000000,G-11,3,3,2178
+2021,5600000,G-11,2,2,898
+2022,18600000,G-11,3,2,2150
+2023,16000000,G-11,2,2,1960
+2024,7500000,G-11,2,2,1089
+2025,5200000,G-11,2,2,843
+2026,9000000,G-11,2,2,1279
+2027,10000000,G-11,2,2,1252
+2028,15600000,G-11,2,2,1932
+2029,14000000,G-11,3,3,2069
+2030,7200000,G-11,2,2,1197
+2031,9000000,G-11,2,2,1252
+2032,6000000,G-11,1,2,843
+2033,7800000,G-11,1,2,1007
+2034,9500000,G-11,2,2,1252
+2035,7600000,G-11,2,2,1089
+2036,6200000,G-11,2,2,843
+2037,16600000,G-11,2,2,1960
+2038,12000000,G-11,3,3,1334
+2039,6200000,G-11,2,2,898
+2040,8300000,G-11,2,2,1252
+2041,4500000,G-11,2,2,843
+2042,23000000,G-11,3,3,2722
+2043,5700000,G-11,2,2,898
+2044,7000000,G-11,2,2,1061
+2045,6500000,G-11,2,2,843
+2046,9000000,G-11,2,2,1878
+2047,11000000,G-11,2,3,1334
+2048,5500000,G-11,2,2,898
+2049,14000000,G-11,3,3,2069
+2050,5500000,G-11,2,2,1116
+2051,16800000,G-11,2,2,2041
+2052,4500000,G-11,2,2,843
+2053,8900000,G-11,2,2,1252
+2054,20500000,G-11,3,3,2423
+2055,11000000,G-11,2,2,1089
+2056,7800000,G-11,2,2,1089
+2057,13200000,G-11,2,2,1932
+2058,5200000,G-11,2,2,898
+2059,6000000,G-11,2,2,1089
+2060,6500000,G-11,1,2,843
+2061,10000000,G-11,2,2,1824
+2062,6000000,G-11,1,2,843
+2063,10900000,G-11,2,2,1987
+2064,22500000,G-11,3,3,2613
+2065,15500000,G-11,2,2,1932
+2066,4800000,G-11,2,2,898
+2067,4500000,G-11,2,2,843
+2068,5000000,G-11,1,2,843
+2069,5300000,G-11,2,2,843
+2070,5500000,G-11,1,2,843
+2071,6500000,G-11,1,2,843
+2072,5800000,G-11,2,2,843
+2073,5200000,G-11,2,2,843
+2074,6500000,G-11,2,2,843
+2075,6250000,G-11,2,2,843
+2076,7000000,G-11,2,2,1089
+2077,8000000,G-11,2,2,1824
+2078,9000000,G-11,2,2,1334
+2079,9800000,G-11,2,2,1334
+2080,10800000,G-11,2,2,1252
+2081,5500000,G-11,2,2,843
+2082,15900000,G-11,2,2,1960
+2083,22000000,G-11,3,3,2368
+2084,11000000,G-11,3,3,1334
+2085,14200000,G-11,2,2,1742
+2086,14900000,G-11,2,2,1742
+2087,15600000,G-11,2,2,1769
+2088,15700000,G-11,2,2,1769
+2089,16100000,G-11,2,2,1960
+2090,16900000,G-11,2,2,1960
+2091,17800000,G-11,2,2,2014
+2092,17800000,G-11,3,3,2150
+2093,19200000,G-11,3,3,2150
+2094,22000000,G-11,3,3,2613
+2095,24000000,G-11,3,3,2640
+2096,17000000,G-11,2,2,1987
+2097,16600000,G-11,2,2,1960
+2098,25500000,G-11,3,4,2559
+2099,14000000,G-11,3,3,2069
+2100,14000000,G-11,3,3,2069
+2101,6500000,G-11,2,2,843
+2102,15000000,G-11,2,2,1905
+2103,11500000,G-11,3,3,1334
+2104,8400000,G-11,2,2,1089
+2105,7000000,G-11,1,1,544
+2106,22500000,G-11,3,3,2368
+2107,8500000,G-11,2,2,1143
+2108,8000000,G-11,2,3,1905
+2109,7400000,G-11,2,2,1089
+2110,7500000,G-11,2,2,1279
+2111,6500000,G-11,2,2,843
+2112,11000000,G-11,3,3,1442
+2113,14000000,G-11,3,3,2069
+2114,6700000,G-11,2,2,816
+2115,16000000,G-11,2,2,1960
+2116,22000000,G-11,3,3,2368
+2117,22800000,G-11,3,3,2368
+2118,16300000,G-11,2,2,1960
+2119,16100000,G-11,2,2,1960
+2120,6500000,G-11,2,2,816
+2121,13500000,G-11,2,2,1579
+2122,12400000,G-11,2,2,1932
+2123,7500000,G-11,2,2,1089
+2124,7500000,G-11,2,2,1089
+2125,7600000,G-11,2,2,1089
+2126,22300000,G-11,3,3,2368
+2127,16200000,G-11,2,2,1960
+2128,15900000,G-11,2,2,1960
+2129,25500000,G-11,4,4,2559
+2130,15200000,G-11,2,2,1932
+2131,14000000,G-11,2,2,1633
+2132,16300000,G-11,2,2,1960
+2133,13500000,G-11,2,2,1579
+2134,9700000,G-11,2,2,1334
+2135,21600000,G-11,3,3,2368
+2136,24200000,G-11,3,3,2423
+2137,22000000,G-11,3,3,2423
+2138,9500000,G-11,2,3,1905
+2139,14100000,G-11,2,2,1633
+2140,12400000,G-11,2,2,1932
+2141,12900000,G-11,2,2,1932
+2142,10000000,G-11,2,3,1334
+2143,18000000,G-11,2,2,2041
+2144,21900000,G-11,3,3,2368
+2145,14400000,G-11,2,2,1932
+2146,16500000,G-11,2,2,1960
+2147,7600000,G-11,2,3,1334
+2148,5400000,G-11,2,2,843
+2149,22100000,G-11,3,3,2423
+2150,24300000,G-11,3,3,2423
+2151,16200000,G-11,2,2,1960
+2152,16300000,G-11,2,2,1960
+2153,5300000,G-11,1,1,517
+2154,4800000,G-11,1,1,517
+2155,25300000,G-11,4,4,2559
+2156,22300000,G-11,3,3,2368
+2157,13500000,G-11,2,2,1579
+2158,9500000,G-11,2,3,1334
+2159,7800000,G-11,2,2,1089
+2160,16300000,G-11,2,2,1960
+2161,21600000,G-11,3,3,2368
+2162,21900000,G-11,3,3,2423
+2163,16300000,G-11,2,2,1960
+2164,12000000,G-11,2,3,1334
+2165,12000000,G-11,3,3,1334
+2166,8500000,G-11,2,3,1388
+2167,5600000,G-11,2,2,843
+2168,11000000,G-11,3,3,1334
+2169,9500000,G-11,2,3,1334
+2170,11200000,G-11,3,3,1334
+2171,14500000,G-11,2,2,1932
+2172,8300000,G-11,2,2,1089
+2173,5000000,G-11,2,2,871
+2174,7500000,G-11,2,2,1089
+2175,13600000,G-11,2,2,1579
+2176,14200000,G-11,2,2,1633
+2177,14000000,G-11,3,3,2069
+2178,14000000,G-11,3,3,2069
+2179,16400000,G-11,2,2,1960
+2180,18000000,G-11,2,2,2041
+2181,9300000,G-11,1,2,1089
+2182,21700000,G-11,3,3,2368
+2183,24400000,G-11,3,3,2423
+2184,25400000,G-11,4,4,2559
+2185,22300000,G-11,3,3,2423
+2186,5800000,G-11,2,2,898
+2187,8500000,G-11,2,2,1089
+2188,16600000,G-11,2,2,1960
+2189,16500000,G-11,2,2,1960
+2190,16300000,G-11,2,2,1960
+2191,23000000,G-11,3,3,2368
+2192,22500000,G-11,3,3,2368
+2193,12500000,G-11,2,2,1905
+2194,13000000,G-11,2,2,1905
+2195,14500000,G-11,2,2,1932
+2196,15000000,G-11,2,2,1905
+2197,14000000,G-11,3,3,2069
+2198,14000000,G-11,3,3,2069
+2199,14000000,G-11,3,3,2069
+2200,5000000,G-11,2,2,843
+2201,9000000,G-11,2,2,1334
+2202,7000000,G-11,2,3,1334
+2203,7000000,G-11,2,3,1334
+2204,7000000,G-11,2,3,1334
+2205,7000000,G-11,2,3,1334
+2206,6000000,G-11,2,2,843
+2207,5300000,G-11,2,2,843
+2208,8500000,G-11,2,3,1334
+2209,12000000,G-11,2,3,1334
+2210,15500000,G-11,3,3,3267
+2211,5500000,G-11,2,2,1116
+2212,50000000,G-11,2,2,8167
+2213,6300000,G-11,2,2,1034
+2214,14200000,G-11,2,2,1742
+2215,5500000,G-11,2,2,898
+2216,9500000,G-11,2,3,1334
+2217,5000000,G-11,2,2,843
+2218,14500000,G-11,2,2,1932
+2219,4500000,G-11,2,2,843
+2220,7000000,G-11,2,2,1034
+2221,7000000,G-11,2,3,1334
+2222,11000000,G-11,2,2,1252
+2223,8500000,G-11,2,2,1225
+2224,6800000,G-11,2,2,843
+2225,6800000,G-11,2,2,843
+2226,6500000,G-11,2,2,843
+2227,6500000,G-11,2,2,843
+2228,5700000,G-11,2,2,843
+2229,6000000,G-11,2,2,843
+2230,8000000,G-11,2,2,1089
+2231,7800000,G-11,2,2,1089
+2232,7500000,G-11,2,2,1089
+2233,7000000,G-11,2,2,1089
+2234,7000000,G-11,2,2,1089
+2235,11500000,G-11,2,3,1334
+2236,10000000,G-11,2,3,1334
+2237,9500000,G-11,2,3,1334
+2238,9000000,G-11,2,3,1334
+2239,5500000,G-11,2,2,898
+2240,13500000,G-11,2,3,1334
+2241,9500000,G-11,2,3,1089
+2242,8500000,G-11,3,3,1579
+2243,14500000,G-11,2,2,1932
+2244,13500000,G-11,2,2,1932
+2245,12500000,G-11,2,2,1932
+2246,13500000,G-11,2,2,1987
+2247,16500000,G-11,2,2,1960
+2248,16500000,G-11,2,2,1960
+2249,23000000,G-11,3,3,2368
+2250,24000000,G-11,3,3,2531
+2251,8500000,G-11,3,3,1334
+2252,14500000,G-11,3,2,1932
+2253,11000000,G-11,2,2,1252
+2254,11000000,G-11,2,2,1252
+2255,7000000,G-11,2,3,1334
+2256,7000000,G-11,2,3,1334
+2257,7000000,G-11,2,2,1089
+2258,7000000,G-11,2,2,1089
+2259,7800000,G-11,2,2,1089
+2260,11500000,G-11,2,3,1334
+2261,9500000,G-11,2,3,1334
+2262,9000000,G-11,2,3,1334
+2263,5700000,G-11,2,2,843
+2264,8000000,G-11,2,2,1089
+2265,6500000,G-11,2,2,843
+2266,7500000,G-11,2,2,1089
+2267,6000000,G-11,2,2,843
+2268,6500000,G-11,2,2,843
+2269,6800000,G-11,2,2,843
+2270,14200000,G-11,2,2,1742
+2271,24000000,G-11,3,3,2531
+2272,8500000,G-11,2,3,1334
+2273,5000000,G-11,2,2,1089
+2274,5300000,G-11,2,2,843
+2275,6000000,G-11,2,2,843
+2276,14500000,G-11,2,2,1932
+2277,9500000,G-11,2,3,1334
+2278,3900000,G-13,2,1,1143
+2279,8405000,G-13,3,3,2477
+2280,5535000,G-13,2,2,1633
+2281,11800000,G-13,3,3,2477
+2282,5410000,G-13,2,2,1361
+2283,6800000,G-13,2,2,1633
+2284,5335000,G-13,2,2,1633
+2285,5535000,G-13,2,2,1633
+2286,12600000,G-13,3,3,2477
+2287,5200000,G-13,2,2,1633
+2288,6200000,G-13,2,2,1388
+2289,4715000,G-13,2,2,1388
+2290,8200000,G-13,3,3,2477
+2291,7000000,G-13,3,3,2123
+2292,5400000,G-13,2,2,1633
+2293,4600000,G-13,2,2,1388
+2294,3800000,G-13,1,1,1143
+2295,5500000,G-13,2,2,1633
+2296,5535000,G-13,2,2,1633
+2297,4715000,G-13,2,2,1388
+2298,4715000,G-13,2,2,1388
+2299,5535000,G-13,2,2,1633
+2300,7175000,G-13,3,3,2123
+2301,8400000,G-13,3,3,2477
+2302,5500000,G-13,2,2,1633
+2303,5500000,G-13,2,2,1633
+2304,4700000,G-13,2,2,1197
+2305,4380000,G-13,2,2,1388
+2306,5500000,G-13,2,2,1633
+2307,8405000,G-13,3,3,2477
+2308,5500000,G-13,2,2,1633
+2309,4715000,G-13,2,2,1388
+2310,4715000,G-13,2,2,1388
+2311,5535000,G-13,2,2,1633
+2312,8400000,G-13,3,3,2477
+2313,4715000,G-13,2,2,1388
+2314,4715000,G-13,2,2,1388
+2315,5535000,G-13,2,2,1633
+2316,7175000,G-13,3,3,2123
+2317,7175000,G-13,3,3,2123
+2318,8400000,G-13,3,3,2477
+2319,5500000,G-13,2,2,1633
+2320,3800000,G-13,2,1,1143
+2321,7892000,G-13,3,3,2477
+2322,7000000,G-13,3,3,2123
+2323,7000000,G-13,3,3,2123
+2324,7235000,G-13,2,2,1633
+2325,5920000,G-13,2,2,1388
+2326,4715000,G-13,2,2,1388
+2327,5535000,G-13,2,2,1633
+2328,4715000,G-13,2,2,1388
+2329,4715000,G-13,2,2,1388
+2330,7175000,G-13,3,3,2123
+2331,7175000,G-13,3,3,2123
+2332,7175000,G-13,3,3,2123
+2333,8400000,G-13,3,3,2477
+2334,8400000,G-13,3,3,2477
+2335,5500000,G-13,2,2,1633
+2336,7000000,G-13,3,3,2123
+2337,3800000,G-13,1,1,1143
+2338,4600000,G-13,2,2,1388
+2339,6800000,G-13,3,3,2477
+2340,4250000,G-13,1,1,1143
+2341,10100000,G-13,3,3,2477
+2342,8400000,G-13,3,3,2477
+2343,8400000,G-13,3,3,2477
+2344,7175000,G-13,3,3,2123
+2345,5535000,G-13,2,2,1633
+2346,4715000,G-13,2,2,1388
+2347,5500000,G-13,2,2,1633
+2348,5500000,G-13,2,2,1633
+2349,7000000,G-13,4,3,2123
+2350,3900000,G-13,1,1,1143
+2351,4050000,G-15,1,1,762
+2352,10500000,G-15,4,4,2831
+2353,3800000,G-15,2,2,1034
+2354,12800000,G-15,3,3,2314
+2355,3600000,G-15,2,2,843
+2356,4100000,G-15,2,2,789
+2357,5800000,G-15,2,2,898
+2358,6600000,G-15,2,2,1089
+2359,4900000,G-15,1,1,762
+2360,9200000,G-15,3,3,2423
+2361,13200000,G-15,3,3,2314
+2362,4000000,G-15,1,1,1007
+2363,5200000,G-15,3,3,843
+2364,2700000,G-15,2,2,735
+2365,4000000,G-15,1,1,1007
+2366,8500000,G-15,2,2,1497
+2367,10000000,G-15,3,3,2314
+2368,6600000,G-15,2,2,1497
+2369,6000000,G-15,1,1,1007
+2370,6000000,G-15,1,1,1034
+2371,13000000,G-15,3,3,2314
+2372,20000000,G-15,4,4,4519
+2373,10000000,G-15,3,3,2314
+2374,6600000,G-15,2,2,1497
+2375,4200000,G-15,1,1,1007
+2376,8500000,G-15,2,2,1606
+2377,8000000,G-15,2,2,1388
+2378,8000000,G-15,2,2,1388
+2379,5000000,G-15,3,3,1197
+2380,2700000,G-15,2,2,735
+2381,6000000,G-15,3,3,1334
+2382,5000000,G-15,3,3,1197
+2383,8800000,G-15,2,2,1497
+2384,10000000,G-15,2,2,1524
+2385,20000000,G-15,4,4,4519
+2386,8800000,G-15,2,2,1497
+2387,11500000,G-15,4,4,2722
+2388,9500000,G-15,2,2,1524
+2389,15000000,G-15,3,3,2314
+2390,3500000,G-15,2,3,598
+2391,3000000,G-15,2,2,789
+2392,3000000,G-15,2,2,789
+2393,5000000,G-15,1,1,762
+2394,4000000,G-15,2,2,898
+2395,7500000,G-15,2,2,1306
+2396,3600000,G-15,2,2,843
+2397,13200000,G-15,3,3,2314
+2398,7500000,G-15,2,3,1197
+2399,8500000,G-15,2,2,1306
+2400,7500000,G-15,3,3,1143
+2401,3200000,G-15,1,2,707
+2402,8500000,G-15,2,2,1306
+2403,8500000,G-15,2,2,1306
+2404,4000000,G-15,1,1,626
+2405,4400000,G-15,3,3,980
+2406,3100000,G-15,2,2,843
+2407,8500000,G-15,2,2,1497
+2408,4900000,G-15,1,1,762
+2409,6600000,G-15,2,2,1089
+2410,4900000,G-15,1,1,762
+2411,7500000,G-15,2,2,1361
+2412,6600000,G-15,2,2,1089
+2413,20000000,G-15,4,4,4519
+2414,7500000,G-15,2,2,1306
+2415,3000000,G-15,2,2,789
+2416,8000000,G-15,3,3,1388
+2417,7500000,G-15,2,2,1143
+2418,8500000,G-15,2,2,1497
+2419,20000000,G-15,4,4,4519
+2420,12000000,G-15,3,3,2314
+2421,7500000,G-15,2,2,1306
+2422,8500000,G-15,2,2,1497
+2423,4900000,G-15,1,1,762
+2424,10000000,G-15,3,3,1878
+2425,5000000,G-15,1,1,762
+2426,4000000,G-15,2,2,925
+2427,3000000,G-15,2,2,789
+2428,8200000,G-15,2,2,1306
+2429,14000000,G-15,3,3,2341
+2430,7500000,G-15,2,2,1306
+2431,8500000,G-15,2,2,1497
+2432,6600000,G-15,2,2,1089
+2433,4900000,G-15,1,1,762
+2434,7500000,G-15,2,2,1306
+2435,10000000,G-15,3,3,1878
+2436,10000000,G-15,3,3,1878
+2437,10000000,G-15,3,3,1878
+2438,10000000,G-15,3,3,1878
+2439,10000000,G-15,3,3,1878
+2440,10000000,G-15,3,3,1878
+2441,10000000,G-15,3,3,1878
+2442,10000000,G-15,3,3,1878
+2443,10000000,G-15,3,3,1878
+2444,10000000,G-15,3,3,1878
+2445,12000000,G-15,3,3,2314
+2446,12000000,G-15,3,3,2314
+2447,12000000,G-15,3,3,2314
+2448,12000000,G-15,3,3,2314
+2449,6600000,G-15,2,2,1497
+2450,6600000,G-15,2,2,1497
+2451,6600000,G-15,2,2,1497
+2452,6600000,G-15,2,2,1497
+2453,6600000,G-15,2,2,1497
+2454,8200000,G-15,2,2,1306
+2455,14000000,G-15,3,3,2341
+2456,20000000,G-15,4,4,4356
+2457,4000000,G-15,1,1,762
+2458,10500000,G-15,3,3,1878
+2459,8500000,G-15,2,2,1334
+2460,4200000,G-15,1,1,680
+2461,8200000,G-15,2,2,1306
+2462,14000000,G-15,3,3,2341
+2463,20000000,G-15,4,4,4356
+2464,5000000,G-15,1,1,762
+2465,5000000,G-15,2,2,925
+2466,4000000,G-15,2,2,789
+2467,8000000,G-15,3,3,1388
+2468,2000000,G-15,1,1,326
+2469,5000000,G-15,3,3,1197
+2470,3000000,G-15,2,2,816
+2471,2500000,G-15,1,1,435
+2472,4000000,G-15,1,1,626
+2473,4000000,G-15,1,1,626
+2474,4000000,G-15,1,1,626
+2475,4000000,G-15,1,1,626
+2476,4000000,G-15,1,1,626
+2477,4000000,G-15,1,1,626
+2478,4200000,G-15,1,1,680
+2479,4200000,G-15,1,1,680
+2480,4200000,G-15,1,1,680
+2481,4200000,G-15,1,1,680
+2482,5000000,G-15,1,1,762
+2483,5000000,G-15,1,1,762
+2484,5000000,G-15,1,1,762
+2485,20500000,G-15,4,4,4519
+2486,20500000,G-15,4,4,4519
+2487,5000000,G-15,1,1,762
+2488,6200000,G-15,1,1,1007
+2489,6200000,G-15,1,1,1007
+2490,6200000,G-15,1,1,1007
+2491,6200000,G-15,1,1,1007
+2492,6600000,G-15,2,2,1089
+2493,6600000,G-15,2,2,1089
+2494,6600000,G-15,2,2,1089
+2495,6600000,G-15,2,2,1089
+2496,7700000,G-15,2,2,1306
+2497,7700000,G-15,2,2,1306
+2498,20500000,G-15,4,4,4519
+2499,7700000,G-15,2,2,1306
+2500,7700000,G-15,2,2,1306
+2501,8100000,G-15,2,2,1388
+2502,8100000,G-15,2,2,1388
+2503,8100000,G-15,2,2,1388
+2504,8100000,G-15,2,2,1388
+2505,8600000,G-15,2,2,1497
+2506,8600000,G-15,2,2,1497
+2507,20500000,G-15,4,4,4519
+2508,8600000,G-15,2,2,1497
+2509,8600000,G-15,2,2,1497
+2510,10200000,G-15,3,3,1878
+2511,10200000,G-15,3,3,1878
+2512,10200000,G-15,3,3,2314
+2513,10200000,G-15,3,3,2314
+2514,3500000,G-15,2,2,735
+2515,8200000,G-15,2,2,1306
+2516,14000000,G-15,3,3,2341
+2517,20000000,G-15,4,4,4356
+2518,5000000,G-15,1,1,762
+2519,3000000,G-15,2,2,789
+2520,14000000,G-15,3,3,2368
+2521,20000000,G-15,4,4,4356
+2522,5000000,G-15,1,1,762
+2523,8200000,G-15,2,2,1524
+2524,9000000,G-15,2,2,1524
+2525,8500000,G-15,2,2,1497
+2526,8200000,G-15,2,2,1388
+2527,20000000,G-15,3,3,4519
+2528,8200000,G-15,2,2,1388
+2529,8500000,G-15,2,2,1497
+2530,8500000,G-15,2,2,1497
+2531,8200000,G-15,2,2,1497
+2532,8500000,G-15,2,2,1306
+2533,6600000,G-15,2,2,1089
+2534,6600000,G-15,2,2,1089
+2535,8500000,G-15,2,2,1306
+2536,8200000,G-15,2,2,1388
+2537,4000000,G-15,1,1,626
+2538,4000000,G-15,1,1,626
+2539,8200000,G-15,2,2,1388
+2540,8200000,G-15,2,2,1388
+2541,4500000,G-15,1,1,762
+2542,4500000,G-15,1,1,762
+2543,4300000,G-15,1,1,680
+2544,8500000,G-15,3,3,1905
+2545,8500000,G-15,3,3,1905
+2546,20000000,G-15,3,3,4519
+2547,20000000,G-15,3,3,4519
+2548,20000000,G-15,3,3,4519
+2549,2600000,G-15,2,2,598
+2550,4500000,G-15,3,3,898
+2551,2500000,G-15,2,2,408
+2552,14000000,G-15,3,3,2368
+2553,20000000,G-15,4,4,4356
+2554,5000000,G-15,1,1,762
+2555,8200000,G-15,2,2,1524
+2556,2300000,G-15,1,1,435
+2557,37500000,other,3,3,2178
+2558,12500000,other,2,3,1579
+2559,13000000,other,3,3,1633
+2560,6400000,other,1,1,1007
+2561,11000000,other,2,3,1633
+2562,12500000,other,3,3,1633
+2563,6800000,G-8,2,2,980
+2564,7100000,G-8,3,2,1497
+2565,8500000,G-8,3,2,1932
+2566,8500000,G-8,3,3,1442
+2567,8500000,G-8,3,3,1442
+2568,8500000,G-8,3,3,1442
+2569,8500000,G-8,3,3,2069
+2570,8500000,G-8,3,3,1442
+2571,6500000,other,1,1,598
+2572,18000000,other,3,3,1742
+2573,3485000,GT Road,2,1,517
+2574,2400000,GT Road,1,1,735
+2575,10000000,GT Road,3,3,2477
+2576,4720000,GT Road,2,2,1143
+2577,7500000,GT Road,3,3,1687
+2578,7070000,GT Road,3,3,1633
+2579,3900000,GT Road,2,2,1089
+2580,4100000,GT Road,1,1,680
+2581,3400000,GT Road,1,1,490
+2582,5000000,GT Road,2,2,1143
+2583,4100000,GT Road,3,3,1687
+2584,4100000,GT Road,3,3,1687
+2585,3900000,GT Road,2,2,1089
+2586,5200000,GT Road,1,1,1089
+2587,4500000,Ghauri Town,2,2,843
+2588,2800000,Ghauri Town,1,1,544
+2589,6000000,Ghauri Town,2,2,1089
+2590,2000000,Ghauri Town,1,1,653
+2591,2750000,Ghauri Town,1,1,517
+2592,3500000,Ghauri Town,1,1,544
+2593,4700000,Ghauri Town,2,2,1034
+2594,12500000,Gulberg,2,2,1878
+2595,7800000,Gulberg,2,3,1334
+2596,3800000,Gulberg,1,1,735
+2597,7000000,Gulberg,2,2,1034
+2598,5350000,Gulberg,2,2,925
+2599,4000000,Gulberg,1,1,816
+2600,8000000,Gulberg,3,3,1497
+2601,17800000,Gulberg,2,2,2259
+2602,9500000,Gulberg,3,3,1361
+2603,4680000,Gulberg,2,2,980
+2604,5576000,Gulberg,1,1,843
+2605,4680000,Gulberg,2,2,980
+2606,4680000,Gulberg,2,2,980
+2607,3825000,Gulberg,1,1,544
+2608,4600000,Gulberg,2,2,980
+2609,4320000,Gulberg,1,1,653
+2610,6273000,Gulberg,1,1,843
+2611,5300000,Gulberg,1,1,925
+2612,6300000,Gulberg,2,2,925
+2613,11400000,Gulberg,2,2,1715
+2614,11900000,Gulberg,2,2,1796
+2615,4320000,Gulberg,1,1,653
+2616,10300000,Gulberg,2,2,1633
+2617,10300000,Gulberg,2,2,1633
+2618,3825000,Gulberg,1,1,544
+2619,7800000,Gulberg,3,3,1497
+2620,6500000,Gulberg,2,2,1007
+2621,4100000,Gulberg,1,1,735
+2622,3900000,Gulberg,1,1,707
+2623,15000000,Gulberg,2,2,2069
+2624,6400000,Gulberg,1,1,980
+2625,5448000,Gulberg,1,1,762
+2626,10900000,Gulberg,2,2,1633
+2627,5400000,Gulberg,2,2,898
+2628,6500000,Gulberg,2,2,980
+2629,3638000,Gulberg,1,1,707
+2630,3548000,Gulberg,1,1,571
+2631,3250000,Gulberg,1,1,653
+2632,3600000,Gulberg,1,1,735
+2633,14900000,Gulberg,2,2,1878
+2634,18500000,Gulberg,2,2,2341
+2635,9600000,Gulberg,2,2,1170
+2636,3045000,Gulberg,1,1,517
+2637,3626000,Gulberg,1,1,626
+2638,3892000,Gulberg,1,1,735
+2639,4600000,Gulberg,1,1,653
+2640,6400000,Gulberg,2,2,925
+2641,4500000,Gulberg,1,1,653
+2642,4300000,Gulberg,2,2,680
+2643,3700000,Gulberg,1,1,598
+2644,2800000,Gulberg,1,1,462
+2645,5950000,Gulberg,2,2,925
+2646,7100000,Gulberg,2,2,1116
+2647,4750000,Gulberg,1,1,735
+2648,6500000,Gulberg,2,2,1007
+2649,8050000,Gulberg,2,2,1252
+2650,5950000,Gulberg,2,2,925
+2651,4050000,Gulberg,1,1,653
+2652,3900000,Gulberg,1,1,626
+2653,2565000,Gulberg,1,1,408
+2654,6500000,Gulberg,2,2,1007
+2655,3758000,Gulberg,1,1,598
+2656,6650000,Gulberg,2,2,1034
+2657,7500000,Gulberg,2,2,1170
+2658,3800000,Gulberg,1,1,598
+2659,4751000,Gulberg,1,1,735
+2660,6600000,Gulberg,2,2,1034
+2661,3817000,Gulberg,1,1,626
+2662,4005000,Gulberg,1,1,653
+2663,6500000,Gulberg,2,2,1007
+2664,6650000,Gulberg,2,2,1034
+2665,3945000,Gulberg,1,1,626
+2666,3690000,Gulberg,1,1,598
+2667,4050000,Gulberg,1,1,653
+2668,3900000,Gulberg,1,1,626
+2669,8000000,Gulberg,2,2,980
+2670,6500000,Gulberg,2,2,980
+2671,4500000,Gulberg,1,1,735
+2672,6500000,Gulberg,2,2,980
+2673,8500000,Gulberg,3,3,1470
+2674,2950000,Gulberg,1,1,517
+2675,3045000,Gulberg,1,1,517
+2676,3045000,Gulberg,1,1,517
+2677,6622000,Gulberg,2,2,1143
+2678,6622000,Gulberg,2,2,1143
+2679,12000000,Gulberg,3,3,1633
+2680,3045000,Gulberg,1,1,517
+2681,4100000,Gulberg,1,1,680
+2682,4500000,Gulberg,1,1,626
+2683,3311000,Gulberg,1,1,571
+2684,2085000,Gulberg,1,1,326
+2685,8242000,Gulberg,3,3,1334
+2686,2085000,Gulberg,1,1,326
+2687,4320000,Gulberg,1,1,653
+2688,4751000,Gulberg,1,1,735
+2689,6540000,Gulberg,2,2,1061
+2690,2085000,Gulberg,1,1,326
+2691,8888000,Gulberg,3,3,1442
+2692,7669000,Gulberg,2,2,1197
+2693,7677000,Gulberg,2,2,1197
+2694,7300000,Gulberg,3,3,1497
+2695,3499000,Gulberg,1,1,544
+2696,4320000,Gulberg,1,1,653
+2697,2600000,Gulberg,1,1,435
+2698,4000000,Gulberg,1,1,490
+2699,3800000,Gulberg,1,1,517
+2700,7000000,Gulberg,2,2,1089
+2701,4080000,Gulberg,1,1,653
+2702,8003000,Gulberg,2,2,1170
+2703,5430000,Gulberg,2,2,871
+2704,6540000,Gulberg,2,2,1061
+2705,8242000,Gulberg,3,3,1334
+2706,8888000,Gulberg,3,3,1442
+2707,4200000,Gulberg,1,1,680
+2708,8888000,Gulberg,3,3,1442
+2709,3750000,Gulberg,1,1,598
+2710,2085000,Gulberg,1,1,326
+2711,7000000,Gulberg,3,3,1334
+2712,7000000,Gulberg,3,3,1334
+2713,2085000,Gulberg,1,1,326
+2714,3750000,Gulberg,1,1,598
+2715,3840000,Gulberg,1,1,626
+2716,4117000,Gulberg,1,1,653
+2717,4200000,Gulberg,1,1,680
+2718,3960000,Gulberg,1,1,626
+2719,5430000,Gulberg,2,2,871
+2720,8242000,Gulberg,3,3,1334
+2721,8888000,Gulberg,3,3,1442
+2722,6540000,Gulberg,2,2,1061
+2723,2085000,Gulberg,1,1,326
+2724,3750000,Gulberg,1,1,598
+2725,5430000,Gulberg,2,2,871
+2726,8242000,Gulberg,3,3,1334
+2727,2085000,Gulberg,1,1,326
+2728,8050000,Gulberg,2,2,1252
+2729,6650000,Gulberg,2,2,1034
+2730,2085000,Gulberg,1,1,326
+2731,3750000,Gulberg,1,1,598
+2732,3840000,Gulberg,1,1,626
+2733,3960000,Gulberg,1,1,626
+2734,4117000,Gulberg,1,1,653
+2735,4200000,Gulberg,1,1,680
+2736,5430000,Gulberg,2,2,871
+2737,6540000,Gulberg,2,2,1061
+2738,8242000,Gulberg,3,3,1334
+2739,8888000,Gulberg,3,3,1442
+2740,2085000,Gulberg,1,1,326
+2741,9205000,Gulberg,2,2,1252
+2742,8655000,Gulberg,2,2,1170
+2743,8424000,Gulberg,2,2,1334
+2744,2085000,Gulberg,1,1,326
+2745,3750000,Gulberg,1,1,598
+2746,3840000,Gulberg,1,1,626
+2747,3960000,Gulberg,1,1,626
+2748,4200000,Gulberg,1,1,680
+2749,4117000,Gulberg,1,1,653
+2750,6540000,Gulberg,2,2,1061
+2751,8242000,Gulberg,3,3,1334
+2752,8888000,Gulberg,3,3,1442
+2753,2085000,Gulberg,1,1,326
+2754,12900000,Gulberg,4,3,1687
+2755,6800000,Gulberg,2,2,1197
+2756,8420000,Gulberg,2,2,1143
+2757,12500000,Gulberg,3,3,1633
+2758,6500000,Gulberg,3,2,925
+2759,3536000,Gulberg,1,1,490
+2760,5517000,Gulberg,1,1,735
+2761,7500000,Gulberg,2,2,1089
+2762,9900000,Gulberg,2,2,1334
+2763,5198000,Gulberg,1,1,735
+2764,5635000,Gulberg,1,1,789
+2765,5292000,Gulberg,2,2,925
+2766,2665000,Gulberg,1,1,490
+2767,6052000,Gulberg,2,2,980
+2768,7500000,Gulberg,2,2,980
+2769,9600000,Gulberg,2,2,1388
+2770,3892000,Gulberg,1,1,680
+2771,4892000,Gulberg,1,1,735
+2772,4965000,Gulberg,1,1,789
+2773,4972000,Gulberg,1,1,789
+2774,9000000,Gulberg,3,3,1470
+2775,10500000,Gulberg,2,2,1361
+2776,8242000,Gulberg,3,3,1334
+2777,5250000,Gulberg,1,1,816
+2778,3825000,Gulberg,1,1,544
+2779,5200000,Gulberg,2,2,871
+2780,13000000,Gulberg,3,3,1851
+2781,6092000,Gulberg,1,1,898
+2782,8500000,Gulberg,3,3,1497
+2783,3638000,Gulberg,1,1,598
+2784,8242000,Gulberg,3,3,1334
+2785,4500000,Gulberg,1,1,735
+2786,4500000,Gulberg,1,1,735
+2787,6408000,Gulberg,1,1,871
+2788,9000000,Gulberg,3,3,1061
+2789,4300000,Gulberg,1,1,653
+2790,6678000,Gulberg,2,2,898
+2791,10600000,Gulberg,2,2,1687
+2792,3139000,Gulberg,1,1,544
+2793,4500000,Gulberg,1,1,735
+2794,3892000,Gulberg,1,1,544
+2795,3000000,Gulberg,1,1,490
+2796,3850000,Gulberg,1,1,653
+2797,5951000,Gulberg,1,1,871
+2798,12500000,Gulberg,3,3,1633
+2799,9064000,Gulberg,2,2,1334
+2800,13900000,Gulberg,3,3,2014
+2801,6606000,Gulberg,1,1,898
+2802,10100000,Gulberg,2,2,1361
+2803,15000000,Gulberg,3,3,2014
+2804,8336000,Gulberg,2,2,1252
+2805,6500000,Gulberg,2,1,952
+2806,8600000,Gulberg,2,2,1306
+2807,4352000,Gulberg,1,1,653
+2808,6520000,Gulberg,1,1,952
+2809,6200000,Gulberg,2,2,925
+2810,5847000,Gulberg,1,1,871
+2811,6500000,Gulberg,2,2,871
+2812,6000000,Gulberg,2,2,1007
+2813,6375000,Gulberg,1,1,898
+2814,6000000,Gulberg,2,1,952
+2815,8288000,Gulberg,2,2,1442
+2816,3750000,other,3,3,1361
+2817,4500000,other,3,3,1905
+2818,3600000,other,2,2,980
+2819,2500000,other,1,1,735
+2820,2500000,other,1,1,735
+2821,9500000,H-13,3,3,1932
+2822,7500000,H-13,2,2,1442
+2823,6000000,H-13,2,2,1388
+2824,11000000,H-13,3,3,2423
+2825,11000000,H-13,3,3,2423
+2826,7500000,H-13,2,2,1932
+2827,3500000,H-13,1,1,789
+2828,6500000,H-13,2,2,1524
+2829,7000000,H-13,2,2,1524
+2830,5390000,H-13,2,2,1334
+2831,7000000,H-13,2,2,1388
+2832,2500000,H-13,2,2,653
+2833,2500000,H-13,2,2,735
+2834,4950000,H-13,1,1,1089
+2835,2800000,H-13,1,1,843
+2836,4950000,H-13,1,1,1089
+2837,6500000,H-13,2,2,1197
+2838,3700000,H-13,2,1,762
+2839,4950000,H-13,1,1,1089
+2840,4100000,H-13,1,1,843
+2841,4100000,H-13,1,1,816
+2842,2500000,H-13,1,1,462
+2843,5800000,H-13,2,2,1388
+2844,2200000,H-13,2,2,544
+2845,2800000,H-13,2,2,789
+2846,3500000,H-13,2,2,762
+2847,2500000,H-13,2,2,653
+2848,2800000,H-13,2,2,789
+2849,2200000,H-13,2,2,544
+2850,5350000,H-13,2,2,1170
+2851,5250000,H-13,2,2,1143
+2852,5550000,H-13,2,2,1225
+2853,5150000,H-13,2,2,1143
+2854,4650000,H-13,2,2,1034
+2855,2450000,H-13,1,1,544
+2856,2750000,H-13,1,1,598
+2857,2500000,H-13,2,2,653
+2858,2800000,H-13,2,2,789
+2859,2200000,H-13,2,2,544
+2860,2750000,H-13,1,1,598
+2861,5350000,H-13,2,2,1170
+2862,5500000,H-13,2,2,1334
+2863,5500000,H-13,2,2,1334
+2864,2500000,H-13,2,2,653
+2865,2800000,H-13,2,2,789
+2866,2800000,H-13,2,2,789
+2867,2200000,H-13,2,2,544
+2868,2850000,H-13,1,1,571
+2869,4200000,H-13,1,1,816
+2870,6000000,H-13,2,2,1334
+2871,2800000,H-13,2,2,789
+2872,2200000,H-13,2,2,544
+2873,3700000,I-11,2,2,898
+2874,5200000,I-11,1,2,1197
+2875,5500000,I-11,2,3,1361
+2876,4750000,I-11,2,3,1143
+2877,5200000,I-11,2,2,1334
+2878,6500000,I-11,2,3,1334
+2879,4500000,I-11,1,3,1143
+2880,5500000,I-11,2,2,1143
+2881,4500000,I-11,1,2,1197
+2882,4500000,I-11,1,2,1143
+2883,3965000,I-12,2,2,1143
+2884,3500000,I-12,2,2,1089
+2885,3100000,I-12,2,2,1061
+2886,3800000,I-12,2,2,1089
+2887,3000000,I-12,2,2,1061
+2888,4000000,I-12,2,2,1089
+2889,5000000,I-12,1,2,1334
+2890,5000000,I-12,2,2,1334
+2891,3500000,I-12,2,2,1061
+2892,3300000,I-12,2,2,1089
+2893,3800000,I-12,2,2,1089
+2894,4000000,I-12,2,2,1089
+2895,2650000,I-16,2,2,1089
+2896,2500000,I-16,2,2,1116
+2897,2950000,I-16,2,2,1116
+2898,3050000,I-16,2,2,1089
+2899,3100000,I-16,2,2,1361
+2900,2338000,I-16,2,2,1116
+2901,3700000,I-16,3,3,1796
+2902,3050000,I-16,2,2,1089
+2903,12000000,I-8,3,3,1551
+2904,8900000,I-8,2,3,1633
+2905,7800000,I-8,2,3,1442
+2906,6500000,I-8,2,2,1361
+2907,9100000,I-8,2,3,1524
+2908,6500000,I-8,1,2,1034
+2909,6500000,I-8,2,3,1579
+2910,6500000,I-8,2,3,1579
+2911,6000000,I-8,1,2,1034
+2912,6000000,I-8,2,2,1089
+2913,7500000,I-8,3,3,1579
+2914,6000000,I-8,2,2,1361
+2915,9500000,I-8,2,3,1633
+2916,7500000,I-8,3,3,1579
+2917,7000000,I-8,3,3,1442
+2918,7500000,I-8,2,2,1497
+2919,8200000,I-8,2,2,1579
+2920,12500000,I-8,3,3,1824
+2921,9900000,Islamabad - Murree Expressway,2,3,2940
+2922,8500000,Islamabad - Murree Expressway,3,3,2531
+2923,3800000,Islamabad - Murree Expressway,1,1,735
+2924,11000000,Islamabad - Murree Expressway,3,3,2913
+2925,12500000,Islamabad - Murree Expressway,3,3,2668
+2926,3600000,Islamabad - Murree Expressway,1,1,735
+2927,8500000,Islamabad - Murree Expressway,2,2,2395
+2928,9500000,Islamabad - Murree Expressway,2,2,2395
+2929,9000000,Islamabad - Murree Expressway,3,3,1905
+2930,13100000,Islamabad - Murree Expressway,2,2,2395
+2931,4290000,Islamabad Expressway,2,1,762
+2932,9000000,Islamabad Expressway,2,2,1606
+2933,5250000,Islamabad Expressway,1,1,843
+2934,5250000,Islamabad Expressway,1,1,843
+2935,4080000,Islamabad Expressway,1,1,571
+2936,9500000,Islamabad Expressway,2,2,1415
+2937,2580000,Islamabad Expressway,1,1,517
+2938,4000000,Islamabad Expressway,1,1,735
+2939,4950000,Islamabad Expressway,1,1,898
+2940,8500000,Islamabad Expressway,2,2,1388
+2941,3800000,Islamabad Expressway,1,1,707
+2942,5273000,Islamabad Expressway,2,2,843
+2943,7000000,Islamabad Expressway,2,2,1415
+2944,5600000,Islamabad Expressway,1,1,816
+2945,5273000,Islamabad Expressway,2,2,843
+2946,15000000,Islamabad Expressway,4,4,2423
+2947,5273000,Islamabad Expressway,2,2,843
+2948,19200000,Islamabad Expressway,4,4,3103
+2949,17700000,Islamabad Expressway,3,3,2858
+2950,5273000,Islamabad Expressway,2,2,843
+2951,5000000,Islamabad Highway,2,2,898
+2952,5250000,Islamabad Highway,1,1,843
+2953,5250000,Islamabad Highway,1,1,843
+2954,5250000,Islamabad Highway,1,1,843
+2955,5250000,Islamabad Highway,1,1,843
+2956,5250000,Islamabad Highway,1,1,843
+2957,5513000,Islamabad Highway,1,1,898
+2958,5513000,Islamabad Highway,1,1,898
+2959,8872000,Islamabad Highway,2,2,1442
+2960,17700000,Islamabad Highway,3,3,2858
+2961,5250000,Islamabad Highway,1,1,843
+2962,5513000,Islamabad Highway,1,1,898
+2963,5250000,Islamabad Highway,1,1,843
+2964,5513000,Islamabad Highway,1,1,898
+2965,5250000,Islamabad Highway,1,1,843
+2966,8872000,Islamabad Highway,2,2,1442
+2967,17700000,Islamabad Highway,3,3,2858
+2968,5250000,Islamabad Highway,1,1,843
+2969,5513000,Islamabad Highway,1,1,898
+2970,5250000,Islamabad Highway,1,1,843
+2971,8872000,Islamabad Highway,2,2,1442
+2972,17700000,Islamabad Highway,3,3,2858
+2973,19200000,Islamabad Highway,4,4,3103
+2974,5250000,Islamabad Highway,1,1,843
+2975,5513000,Islamabad Highway,1,1,898
+2976,5250000,Islamabad Highway,1,1,843
+2977,5513000,Islamabad Highway,1,1,898
+2978,5250000,Islamabad Highway,1,1,843
+2979,8872000,Islamabad Highway,2,2,1442
+2980,17700000,Islamabad Highway,3,3,2858
+2981,19200000,Islamabad Highway,4,4,3103
+2982,5250000,Islamabad Highway,1,1,843
+2983,5513000,Islamabad Highway,1,1,898
+2984,5250000,Islamabad Highway,1,1,843
+2985,5513000,Islamabad Highway,1,1,898
+2986,8872000,Islamabad Highway,2,2,1442
+2987,17700000,Islamabad Highway,3,3,2858
+2988,19200000,Islamabad Highway,4,4,3103
+2989,5250000,Islamabad Highway,1,1,843
+2990,5513000,Islamabad Highway,1,1,898
+2991,5250000,Islamabad Highway,1,1,843
+2992,5513000,Islamabad Highway,1,1,898
+2993,8872000,Islamabad Highway,2,2,1442
+2994,17700000,Islamabad Highway,3,3,2858
+2995,19200000,Islamabad Highway,4,4,3103
+2996,5250000,Islamabad Highway,1,1,843
+2997,5250000,Islamabad Highway,1,1,843
+2998,5513000,Islamabad Highway,1,1,898
+2999,8872000,Islamabad Highway,2,2,1442
+3000,17700000,Islamabad Highway,3,3,2858
+3001,19200000,Islamabad Highway,4,4,3103
+3002,5250000,Islamabad Highway,1,1,843
+3003,5250000,Islamabad Highway,1,1,843
+3004,5513000,Islamabad Highway,1,1,898
+3005,45000000,Karakoram Diplomatic Enclave,2,2,2314
+3006,50000000,Karakoram Diplomatic Enclave,2,2,2286
+3007,55000000,Karakoram Diplomatic Enclave,3,2,2477
+3008,45000000,Karakoram Diplomatic Enclave,2,2,1932
+3009,44500000,Karakoram Diplomatic Enclave,2,2,1878
+3010,55000000,Karakoram Diplomatic Enclave,3,2,2668
+3011,45000000,Karakoram Diplomatic Enclave,3,2,2286
+3012,47000000,Karakoram Diplomatic Enclave,3,2,2531
+3013,55000000,Karakoram Diplomatic Enclave,3,2,2831
+3014,43000000,Karakoram Diplomatic Enclave,2,2,2096
+3015,27500000,Kashmir Highway,3,2,2014
+3016,13800000,Kashmir Highway,1,1,925
+3017,13600000,Kashmir Highway,1,1,898
+3018,13800000,Kashmir Highway,1,1,925
+3019,28200000,Kashmir Highway,2,2,2014
+3020,28200000,Kashmir Highway,2,2,2014
+3021,28200000,Kashmir Highway,2,2,2014
+3022,28200000,Kashmir Highway,2,2,2014
+3023,28200000,Kashmir Highway,2,2,2014
+3024,13800000,Kashmir Highway,1,1,925
+3025,13800000,Kashmir Highway,1,1,925
+3026,16700000,Kashmir Highway,1,1,1170
+3027,13800000,Kashmir Highway,1,1,925
+3028,13800000,Kashmir Highway,1,1,925
+3029,13800000,Kashmir Highway,1,1,925
+3030,16700000,Kashmir Highway,1,1,1170
+3031,5500000,other,2,2,1089
+3032,5500000,other,2,2,1089
+3033,3600000,other,2,2,680
+3034,1900000,other,1,1,517
+3035,3350000,other,2,2,980
+3036,1750000,other,1,1,490
+3037,4700000,other,2,2,898
+3038,3200000,other,2,2,680
+3039,2800000,other,2,2,898
+3040,2600000,PWD Housing Scheme,2,2,571
+3041,3200000,PWD Housing Scheme,3,3,816
+3042,2800000,PWD Housing Scheme,2,2,571
+3043,3500000,PWD Housing Scheme,2,2,1089
+3044,3700000,PWD Housing Scheme,2,2,816
+3045,2800000,PWD Housing Scheme,2,2,571
+3046,2800000,PWD Housing Scheme,2,2,571
+3047,3100000,PWD Housing Scheme,2,2,816
+3048,4000000,PWD Housing Scheme,2,2,1197
+3049,2800000,PWD Housing Scheme,2,2,571
+3050,3000000,PWD Housing Scheme,2,2,735
+3051,3500000,PWD Housing Scheme,2,2,1089
+3052,1800000,PWD Housing Scheme,1,1,490
+3053,2900000,PWD Road,2,2,898
+3054,2550000,PWD Road,2,2,898
+3055,2800000,PWD Road,2,2,898
+3056,3100000,PWD Road,2,2,816
+3057,3450000,PWD Road,3,3,1279
+3058,3000000,PWD Road,2,2,980
+3059,4000000,PWD Road,3,3,1279
+3060,1450000,Pakistan Town,1,1,326
+3061,3500000,Pakistan Town,2,2,925
+3062,4500000,Pakistan Town,2,2,1034
+3063,2800000,Pakistan Town,2,2,789
+3064,1300000,Pakistan Town,1,1,381
+3065,3500000,Pakistan Town,2,2,843
+3066,3500000,Pakistan Town,2,2,843
+3067,3500000,Pakistan Town,2,2,843
+3068,5000000,Pir Sohawa,1,1,707
+3069,4600000,Pir Sohawa,1,1,626
+3070,4272000,Pir Sohawa,1,1,653
+3071,5200000,Pir Sohawa,1,1,707
+3072,4792000,Pir Sohawa,1,1,735
+3073,4800000,Pir Sohawa,1,1,653
+3074,5200000,Pir Sohawa,1,1,707
+3075,5200000,Pir Sohawa,1,1,707
+3076,15000000,Pir Sohawa,3,3,2722
+3077,6500000,River Garden,2,2,1170
+3078,3000000,River Garden,1,1,544
+3079,5180000,River Garden,2,2,898
+3080,7294000,River Garden,3,3,1252
+3081,6900000,River Garden,2,2,1197
+3082,2450000,River Garden,1,1,435
+3083,2625000,River Garden,1,1,435
+3084,5264000,River Garden,2,2,898
+3085,6125000,River Garden,2,2,1061
+3086,5635000,River Garden,2,2,980
+3087,3330000,River Garden,1,1,544
+3088,2490000,River Garden,1,1,408
+3089,3127000,River Garden,1,1,517
+3090,7294000,River Garden,3,3,1252
+3091,8652000,River Garden,3,3,1497
+3092,3000000,River Garden,1,1,490
+3093,3127000,River Garden,1,1,517
+3094,5264000,River Garden,2,2,898
+3095,7294000,River Garden,3,3,1252
+3096,5635000,River Garden,2,2,980
+3097,5999000,River Garden,2,2,1034
+3098,5999000,River Garden,2,2,1034
+3099,6440000,River Garden,2,2,1116
+3100,7336000,River Garden,3,3,1279
+3101,6475000,River Garden,2,2,1116
+3102,5565000,River Garden,2,2,952
+3103,5495000,River Garden,2,2,952
+3104,8652000,River Garden,3,3,1497
+3105,8652000,River Garden,3,3,1497
+3106,3165000,River Garden,1,1,517
+3107,5530000,River Garden,2,2,952
+3108,8764000,River Garden,3,3,1524
+3109,5530000,River Garden,2,2,952
+3110,6500000,River Garden,2,2,1089
+3111,2400000,River Garden,1,1,435
+3112,5000000,River Garden,1,2,898
+3113,5264000,River Garden,2,2,898
+3114,5264000,River Garden,2,2,898
+3115,2490000,River Garden,1,1,408
+3116,3345000,River Garden,1,1,544
+3117,3330000,River Garden,1,1,544
+3118,5565000,River Garden,2,2,952
+3119,5495000,River Garden,2,2,952
+3120,5264000,River Garden,2,2,898
+3121,5411000,River Garden,2,2,925
+3122,5754000,River Garden,2,2,1007
+3123,6342000,River Garden,2,2,1089
+3124,2495000,River Garden,1,1,408
+3125,7500000,other,2,3,1306
+3126,3000000,other,1,1,381
+3127,3200000,other,1,2,435
+3128,9000000,other,3,3,1143
+3129,6000000,other,2,2,898
+3130,3300000,Soan Garden,2,2,898
+3131,2700000,Soan Garden,2,2,816
+3132,5500000,Soan Garden,3,3,1361
+3133,1650000,Soan Garden,1,1,653
+3134,3000000,Soan Garden,2,2,843
+3135,1900000,Soan Garden,2,1,490
+3136,7200000,Soan Garden,3,3,2014
+3137,3000000,Soan Garden,2,2,980
+3138,3200000,Soan Garden,2,2,898
+3139,3100000,Soan Garden,2,2,980
+3140,3500000,Soan Garden,2,2,843
+3141,3700000,Soan Garden,2,2,1089
+3142,3999000,Soan Garden,3,3,1524
+3143,3700000,Soan Garden,3,3,1334
+3144,2700000,Soan Garden,2,2,816
+3145,3000000,Soan Garden,2,2,1034
+3146,2500000,Soan Garden,2,2,1034
+3147,2800000,Soan Garden,2,2,1034
+3148,1600000,Soan Garden,1,1,653
+3149,1600000,Soan Garden,1,1,490
+3150,3800000,Soan Garden,2,2,1089
+3151,2700000,Soan Garden,2,2,816
+3152,3300000,Soan Garden,2,2,1089
+3153,3300000,Soan Garden,2,2,1197
+3154,4600000,Soan Garden,3,3,1334
+3155,2550000,Soan Garden,2,2,898
+3156,4000000,Soan Garden,2,3,1089
+3157,2500000,Soan Garden,2,2,1034
+3158,2800000,Soan Garden,2,2,1034
+3159,3000000,Soan Garden,2,2,1034
+3160,10000000,The Springs,2,2,1579
+3161,9000000,The Springs,2,2,1388
+3162,3900000,The Springs,1,1,598
+3163,16000000,The Springs,4,4,2423
+3164,9000000,The Springs,2,2,1334
+3165,10000000,The Springs,2,2,1415
+3166,8700000,The Springs,2,2,1279
+3167,3900000,other,1,1,626
+3168,3900000,other,1,1,735
+3169,3900000,other,1,1,735
+3170,8060000,other,2,2,1497
+3171,4500000,other,2,2,789
+3172,5500000,Zaraj Housing Scheme,2,2,898
+3173,5800000,Zaraj Housing Scheme,2,2,980
+3174,4600000,Zaraj Housing Scheme,2,2,816
+3175,3500000,Zaraj Housing Scheme,2,1,735
+3176,5200000,Zaraj Housing Scheme,2,2,925
+3177,5800000,Zaraj Housing Scheme,2,2,925
+3178,3700000,Zaraj Housing Scheme,1,1,707
+3179,5500000,Zaraj Housing Scheme,2,2,980
+3180,6000000,Zaraj Housing Scheme,2,2,980
+3181,14000000,other,2,3,1660
+3182,14000000,other,2,3,1660
+3183,3360000,other,2,1,571
+3184,2632000,other,2,2,707
+3185,2500000,other,2,2,1061
+3186,6000000,other,2,2,1579
+3187,8500000,other,3,3,1824
+3188,11500000,other,4,4,1361
+3189,5800000,other,2,2,1388
+3190,6800000,other,3,2,1878
+3191,2600000,other,2,2,898
+3192,11200000,other,3,3,2069
+3193,5800000,other,1,1,1170
+3194,6700000,other,2,2,1089
+3195,15000000,other,3,3,1960
+3196,3200000,other,2,2,1143
+3197,7500000,other,2,2,1388
+3198,2450000,other,2,2,898
+3199,15700000,other,1,1,3185
+3200,4000000,other,2,2,898
+3201,3500000,other,2,2,1116
+3202,8000000,other,2,2,1606
+3203,8600000,other,2,2,1497
+3204,2000000,other,1,1,490
+3205,3800000,other,2,2,762
+3206,1900000,other,1,1,517
+3207,5500000,other,3,3,1633
+3208,3500000,other,2,2,789
+3209,6600000,other,2,2,1089
+3210,1880000,other,1,1,517
+3211,4300000,other,1,1,462
+3212,3800000,other,2,2,789
+3213,4900000,other,1,1,762
+3214,1500000,other,2,2,980
+3215,3695000,other,1,1,898
+3216,2900000,other,2,2,843
+3217,2750000,other,1,1,653
+3218,10000000,other,4,3,2613
+3219,5000000,other,2,2,980
+3220,21000000,other,4,4,4519
+3221,9000000,other,2,2,1470
+3222,10000000,other,3,3,2178
+3223,5250000,other,1,1,843
+3224,7500000,other,2,2,1497
+3225,4400000,other,1,1,980
+3226,2600000,other,1,1,598
+3227,6855000,other,2,2,1388
+3228,14600000,other,4,4,2940
+3229,2700000,other,2,2,762
+3230,900000,other,3,3,1824
+3231,2200000,other,1,2,544
+3232,17500000,other,4,4,2722
+3233,3500000,other,2,2,544
+3234,2200000,other,2,2,544
+3235,4850000,other,2,2,980
+3236,11000000,other,2,2,1579
+3237,1900000,other,2,2,898
+3238,15500000,other,4,3,2858
+3239,3700000,other,1,1,544
+3240,8500000,other,3,3,1143
+3241,3600000,other,1,1,544
+3242,2300000,other,2,2,898
+3243,3000000,other,2,2,952
+3244,3000000,other,1,1,653
+3245,4500000,other,2,3,1089
+3246,3400000,other,2,2,680
+3247,8000000,other,3,3,1279
+3248,2000000,other,2,2,898
+3249,8500000,other,3,3,1143
+3250,4500000,other,2,3,1089
+3251,20000000,other,4,4,4356
+3252,2500000,other,2,2,925
+3253,1500000,other,2,2,898
+3254,4500000,other,2,2,1225
+3255,23500000,other,3,3,2913
+3256,4800000,other,2,2,762
+3257,3700000,other,1,1,435
+3258,11000000,other,2,2,1932
+3259,5000000,other,3,3,1442
+3260,14500000,other,4,3,2722
+3261,4500000,other,3,2,1197
+3262,2400000,other,2,2,1089
+3263,6000000,other,3,3,1633
+3264,3500000,other,1,2,544
+3265,1500000,other,2,2,490
+3266,1500000,other,2,2,490
+3267,1500000,other,2,2,490
+3268,5500000,other,2,2,1579
+3269,19000000,other,3,3,2722
+3270,4500000,other,1,1,598
+3271,12500000,other,3,3,2014
+3272,13000000,other,2,2,2178
+3273,14500000,other,3,3,2722
+3274,2700000,other,2,2,707
+3275,3400000,other,1,1,626
+3276,18000000,other,4,3,3158
+3277,12000000,other,3,3,2858
+3278,2000000,other,1,2,544
+3279,3300000,other,1,1,381
+3280,3600000,other,2,3,544
+3282,5000000,other,3,3,1442
+3283,2950000,other,1,1,381
+3284,11500000,other,3,3,2722

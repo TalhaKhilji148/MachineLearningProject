@@ -1,0 +1,128 @@
+function getBathValue() {
+    var uiBathrooms = document.getElementsByName("uiBathrooms");
+
+    for(var i in uiBathrooms) {
+      if(uiBathrooms[i].checked) {
+        console.log(`This is bathrooms ${i}`);
+          return parseInt(i)+1;
+      }
+    }
+    return -1; // Invalid Value
+  }
+
+  function getLoungeValue() {
+
+    var uiLounges = document.getElementsByName("uiLounges");
+    
+    for(var i in uiLounges) {
+      if(uiLounges[i].checked) {
+        console.log(`this is lounges ${i}`);
+          return parseInt(i)+1;
+      }
+    }
+    return -1; // Invalid Value
+  }
+
+  function getStoreValue() {
+    var uiStore = document.getElementsByName("uiStore");
+    
+    for(var i in uiStore) {
+      if(uiStore[i].checked) {
+        console.log(`this is lounges ${i}`);
+          return parseInt(i);
+      }
+    }
+    return -1; // Invalid Value
+  }
+  
+  
+  function getBHKValue() {
+    var uiBHK = document.getElementsByName("uiBHK");
+    for(var i in uiBHK) {
+      if(uiBHK[i].checked) {
+          return parseInt(i)+1;
+      }
+    }
+    return -1; // Invalid Value
+  }
+//The parseInt function converts its first argument to a string, parses that string, then returns an integer or NaN
+function onClickedEstimatePrice() {
+    console.log("Estimate price button clicked");
+    var sqft = document.getElementById("uiSqft").value;
+    var bhk = getBHKValue();
+    var bathrooms = getBathValue();
+    var store= getStoreValue();
+    var lounge=getLoungeValue();
+    var kitchen=document.getElementById("uiKitchens").value;    
+    var House_location = document.getElementById("uiLocations").value;
+
+
+
+    var estPrice = document.getElementById("uiEstimatedPrice");
+     console.log(bathrooms);
+     console.log(`this is second ${lounge}`);
+     console.log (`this is store room ${store}`);
+
+  
+    var url = "http://127.0.0.1:5000/predict_houses_price"; 
+    var squarefeet=parseFloat(sqft);
+    if(squarefeet>0){
+        if(squarefeet<30000){
+            $.post(url, {
+                total_sqft:sqft,
+                beds: bhk,
+                baths: bathrooms,
+                House_location: House_location,
+                kitchens:kitchen,
+                store:store,
+                tv_lounge: lounge,
+            },
+
+          
+            function(data, status) {
+               
+                console.log(data.estimated_price);
+                var price= data.estimated_price/553772
+                estPrice.innerHTML = "<h2> " + price.toString() + " Eth.</h2>";
+                console.log(status);
+            });
+
+        }else{
+            estPrice.innerHTML = "<h2>" + 0 + " Rs.</h2>";
+            alert("Sorry! Can't Estimate the Price, The value for Squarefeet should be less then 30000.")
+            
+        }
+
+    }
+    else{
+        estPrice.innerHTML = "<h2>" + 0 + " Eth.</h2>";
+        setTimeout(() => {  console.log("World!"); }, 2000);
+        alert("Sorry! Can't Estimate the Price, The value for Squarefeet should be greater then 0.")
+        
+    }
+       
+
+
+ 
+  }
+
+function onPageLoad() {
+    console.log( "document loaded" );
+    //using Jquery $ to get the request 
+     var url = "http://127.0.0.1:5000/get_location_names_for_houses"; 
+    $.get(url,function(data, status) {
+        console.log("got response for get_location_names request");
+        if(data) {
+            var House_location = data.House_location;
+            var uiLocations = document.getElementById("uiLocations");
+            $('#uiLocations').empty();
+            for(var i in House_location) {
+                var opt = new Option(House_location[i]);
+                $('#uiLocations').append(opt);
+                //jQuery append option in select dropdown from json 
+            }
+        }
+    });
+  }
+  
+  window.onload = onPageLoad;
